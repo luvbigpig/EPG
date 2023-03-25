@@ -404,7 +404,7 @@ rtp://@232.84.2.128:8352
 rtp://@232.84.3.191:11068
 #EXTINF:-1 tvg-name="" group-title="Quốc Tế (SD)" tvg-logo="",Phoenix Infonews
 rtp://@232.84.3.190:11062
-#EXTINF:-1 tvg-name="" group-title="MyTV Service" tvg-logo="",POCCNR PTP
+#EXTINF:-1 tvg-name="" group-title="Quốc Tế (SD)" tvg-logo="",POCCNR PTP
 rtp://@232.84.2.127:8544
 #EXTINF:-1 tvg-name="" group-title="Quốc Tế (SD)" tvg-logo="",Rai Italia
 rtp://@232.84.2.124:8358
