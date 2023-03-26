@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="http://trada.info/epg.xml"
+#EXTM3U url-tvg="http://lichphatsong.xyz/schedule/epg.xml"
 #------------------------VTV------------------------#
 #EXTINF:1 tvg-name="VTV1 HD" group-title="VTV" tvg-logo="https://i.imgur.com/6047gMa.jpg",VTV1 HD
 http://dntuan.asuscomm.com:14571/rtp/232.84.1.117:10254
