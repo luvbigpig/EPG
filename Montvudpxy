@@ -25,7 +25,7 @@ http://dntuan.asuscomm.com:14571/rtp/232.84.2.35:10618
 http://dntuan.asuscomm.com:14571/rtp/232.84.1.210:9234
 #EXTINF:37 tvg-name="ON Sports HD" group-title="VTVcab" tvg-logo="https://i.imgur.com/kKd3Ssh.jpg",ON Sports HD
 http://dntuan.asuscomm.com:14571/rtp/232.84.1.207:9216
-#EXTINF:101 tvg-id="ON Sports+ HD" group-title="VTVcab" tvg-logo="https://cdn.hqth.me/logo/thumbs/17.png", ON Sports+ HD
+#EXTINF:101 tvg-id="ON Sports+ HD" group-title="VTVcab" tvg-logo="https://cdn.hqth.me/logo/thumbs/17.png",ON Sports+ HD
 http://code.vthanhtivi.pw/getlink/onplus/HAY_TV/m401_index.m3u8
 #EXTINF:197 tvg-name="ON Sports News" group-title="VTVcab" tvg-logo="https://i.imgur.com/jdCeaVC.jpg",ON Sports News HD
 http://dntuan.asuscomm.com:14571/rtp/232.84.2.193:10942
