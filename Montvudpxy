@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://trada.info/epg.xml"
+M#EXTM3U url-tvg="https://trada.info/epg.xml"
 #------------------------VTV------------------------#
 #EXTINF:1 tvg-name="VTV1" group-title="VTV" tvg-logo="https://i.imgur.com/6047gMa.jpg",VTV1 HD
 http://dntuan.asuscomm.com:14571/rtp/232.84.1.117:10254
@@ -21,15 +21,15 @@ http://dntuan.asuscomm.com:14571/rtp/232.84.2.34:10612
 #EXTINF:69 tvg-name="VTV9" group-title="VTV" tvg-logo="https://i.imgur.com/9mL8Ve0.jpg",VTV9 HD
 http://dntuan.asuscomm.com:14571/rtp/232.84.2.35:10618
 #------------------------VTVcab------------------------#
-#EXTINF:39 tvg-name="ON Football HD" group-title="VTVcab" tvg-logo="https://i.imgur.com/BdZ2IRC.jpg",ON Football HD
+#EXTINF:39 tvg-name="VTVCab16 - ON Football" group-title="VTVcab" tvg-logo="https://i.imgur.com/BdZ2IRC.jpg",ON Football HD
 http://dntuan.asuscomm.com:14571/rtp/232.84.1.210:9234
-#EXTINF:37 tvg-name="ON Sports HD" group-title="VTVcab" tvg-logo="https://i.imgur.com/kKd3Ssh.jpg",ON Sports HD
+#EXTINF:37 tvg-name="VTVCab3 - ON Sports" group-title="VTVcab" tvg-logo="https://i.imgur.com/kKd3Ssh.jpg",ON Sports HD
 http://dntuan.asuscomm.com:14571/rtp/232.84.1.207:9216
-#EXTINF:101 tvg-id="ON Sports+ HD" group-title="VTVcab" tvg-logo="https://cdn.hqth.me/logo/thumbs/17.png",ON Sports+ HD
+#EXTINF:101 tvg-id="vtvcab6hd" group-title="VTVcab" tvg-logo="https://cdn.hqth.me/logo/thumbs/17.png",ON Sports+ HD
 http://code.vthanhtivi.pw/getlink/onplus/HAY_TV/m401_index.m3u8
-#EXTINF:197 tvg-name="ON Sports News" group-title="VTVcab" tvg-logo="https://i.imgur.com/jdCeaVC.jpg",ON Sports News HD
+#EXTINF:197 tvg-name="VTVCab18 - ON Sports News" group-title="VTVcab" tvg-logo="https://i.imgur.com/jdCeaVC.jpg",ON Sports News HD
 http://dntuan.asuscomm.com:14571/rtp/232.84.2.193:10942
-#EXTINF:199 tvg-name="ON Golf HD" group-title="VTVcab" tvg-logo="https://i.imgur.com/cETq7Wv.jpg",ON Golf HD
+#EXTINF:199 tvg-name="VTVCab23 - ON Golf" group-title="VTVcab" tvg-logo="https://i.imgur.com/cETq7Wv.jpg",ON Golf HD
 http://dntuan.asuscomm.com:14571/rtp/232.84.3.244:11386
 #EXTINF:194 tvg-name="VTVCab4 - Phim Đặc Sắc" group-title="VTVcab" tvg-logo="https://i.imgur.com/eZf5gIz.jpg",ON Movies HD
 http://dntuan.asuscomm.com:14571/rtp/232.84.2.190:10924
@@ -188,7 +188,7 @@ http://dntuan.asuscomm.com:14571/rtp/232.84.3.138:8904
 http://dntuan.asuscomm.com:14571/rtp/232.84.3.140:8874
 #EXTINF:491 tvg-name="Lâm Đồng" group-title="Địa Phương" tvg-logo="https://i.imgur.com/WM7ddLv.png",LTV _ TH Lâm Đồng
 http://dntuan.asuscomm.com:14571/rtp/232.84.2.78:8976
-#EXTINF:471 tvg-name="Đắk Lắk" group-title="Địa Phương" tvg-logo="https://i.imgur.com/M15qNZ0.png",DRT HD _ TH Đắk Lắk HD
+#EXTINF:471 tvg-name="Đăk Lăk" group-title="Địa Phương" tvg-logo="https://i.imgur.com/M15qNZ0.png",DRT HD _ TH Đắk Lắk HD
 http://dntuan.asuscomm.com:14571/rtp/232.84.3.99:11464
 #EXTINF:613 tvg-name="Bình Dương 1" group-title="Địa Phương" tvg-logo="https://i.imgur.com/1j3c9nK.jpg",BTV1 HD _ TH Bình Dương HD
 http://dntuan.asuscomm.com:14571/rtp/232.84.3.109:10750
