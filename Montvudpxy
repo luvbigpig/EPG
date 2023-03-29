@@ -4,15 +4,15 @@
 http://dntuan.asuscomm.com:14571/rtp/232.84.1.117:10254
 #EXTINF:2 tvg-name="vtv2hd" group-title="VTV" tvg-logo="https://i.imgur.com/pqPWPzf.jpg",VTV2 HD
 http://dntuan.asuscomm.com:14571/rtp/232.84.2.31:10594
-#EXTINF:3 tvg-name="VTV3HD" group-title="VTV" tvg-logo="https://i.imgur.com/Bsaeckx.jpg",VTV3 HD
+#EXTINF:3 tvg-name="vtv3hd" group-title="VTV" tvg-logo="https://i.imgur.com/Bsaeckx.jpg",VTV3 HD
 http://dntuan.asuscomm.com:14571/rtp/232.84.1.118:10260
-#EXTINF:4 tvg-name="VTV4 HD" group-title="VTV" tvg-logo="https://i.imgur.com/jWfsKve.png",VTV4 HD
+#EXTINF:4 tvg-name="vtv4hd" group-title="VTV" tvg-logo="https://i.imgur.com/jWfsKve.png",VTV4 HD
 http://dntuan.asuscomm.com:14571/rtp/232.84.2.32:10600
-#EXTINF:5 tvg-name="VTV5 HD" group-title="VTV" tvg-logo="https://i.imgur.com/d3dvKNa.jpg",VTV5 HD
+#EXTINF:5 tvg-name="vtv5hd" group-title="VTV" tvg-logo="https://i.imgur.com/d3dvKNa.jpg",VTV5 HD
 http://dntuan.asuscomm.com:14571/rtp/232.84.2.33:10606
-#EXTINF:106 tvg-name="VTV5 Tây Nam Bộ HD" group-title="VTV" tvg-logo="https://i.imgur.com/fCpZa6a.png",VTV5 Tây Nam Bộ HD
+#EXTINF:106 tvg-name="vtv5hdtnb" group-title="VTV" tvg-logo="https://i.imgur.com/fCpZa6a.png",VTV5 Tây Nam Bộ HD
 http://dntuan.asuscomm.com:14571/rtp/232.84.3.86:11542
-#EXTINF:6 tvg-name="VTV Cần Thơ HD" group-title="VTV" tvg-logo="https://i.imgur.com/4ChOVPF.png",VTV Cần Thơ HD
+#EXTINF:6 tvg-name="vtv6hd" group-title="VTV" tvg-logo="https://i.imgur.com/4ChOVPF.png",VTV Cần Thơ HD
 http://dntuan.asuscomm.com:14571/rtp/232.84.1.119:10266
 #EXTINF:9 tvg-name="VTV7 HD" group-title="VTV" tvg-logo="https://i.imgur.com/qW0MBMH.jpg",VTV7 HD
 http://dntuan.asuscomm.com:14571/rtp/232.84.2.202:10996
