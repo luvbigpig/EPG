@@ -1,10 +1,10 @@
-#EXTM3U url-tvg="http://lichphatsong.xyz/schedule/epg.xml"
+#EXTM3U url-tvg="https://trada.info/epg.xml"
 #------------------------VTV------------------------#
-#EXTINF:1 tvg-name="VTV1 HD" group-title="VTV" tvg-logo="https://i.imgur.com/6047gMa.jpg",VTV1 HD
+#EXTINF:1 tvg-name="vtv1hd" group-title="VTV" tvg-logo="https://i.imgur.com/6047gMa.jpg",VTV1 HD
 http://dntuan.asuscomm.com:14571/rtp/232.84.1.117:10254
-#EXTINF:2 tvg-name="VTV2 HD" group-title="VTV" tvg-logo="https://i.imgur.com/pqPWPzf.jpg",VTV2 HD
+#EXTINF:2 tvg-name="vtv2hd" group-title="VTV" tvg-logo="https://i.imgur.com/pqPWPzf.jpg",VTV2 HD
 http://dntuan.asuscomm.com:14571/rtp/232.84.2.31:10594
-#EXTINF:3 tvg-name="VTV3 HD" group-title="VTV" tvg-logo="https://i.imgur.com/Bsaeckx.jpg",VTV3 HD
+#EXTINF:3 tvg-name="VTV3HD" group-title="VTV" tvg-logo="https://i.imgur.com/Bsaeckx.jpg",VTV3 HD
 http://dntuan.asuscomm.com:14571/rtp/232.84.1.118:10260
 #EXTINF:4 tvg-name="VTV4 HD" group-title="VTV" tvg-logo="https://i.imgur.com/jWfsKve.png",VTV4 HD
 http://dntuan.asuscomm.com:14571/rtp/232.84.2.32:10600
