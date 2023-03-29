@@ -1,24 +1,24 @@
 #EXTM3U url-tvg="https://trada.info/epg.xml"
 #------------------------VTV------------------------#
-#EXTINF:1 tvg-name="vtv1hd" group-title="VTV" tvg-logo="https://i.imgur.com/6047gMa.jpg",VTV1 HD
+#EXTINF:1 tvg-name="VTV1" group-title="VTV" tvg-logo="https://i.imgur.com/6047gMa.jpg",VTV1 HD
 http://dntuan.asuscomm.com:14571/rtp/232.84.1.117:10254
-#EXTINF:2 tvg-name="vtv2hd" group-title="VTV" tvg-logo="https://i.imgur.com/pqPWPzf.jpg",VTV2 HD
+#EXTINF:2 tvg-name="VTV2" group-title="VTV" tvg-logo="https://i.imgur.com/pqPWPzf.jpg",VTV2 HD
 http://dntuan.asuscomm.com:14571/rtp/232.84.2.31:10594
-#EXTINF:3 tvg-name="vtv3hd" group-title="VTV" tvg-logo="https://i.imgur.com/Bsaeckx.jpg",VTV3 HD
+#EXTINF:3 tvg-name="VTV3" group-title="VTV" tvg-logo="https://i.imgur.com/Bsaeckx.jpg",VTV3 HD
 http://dntuan.asuscomm.com:14571/rtp/232.84.1.118:10260
-#EXTINF:4 tvg-name="vtv4hd" group-title="VTV" tvg-logo="https://i.imgur.com/jWfsKve.png",VTV4 HD
+#EXTINF:4 tvg-name="VTV4" group-title="VTV" tvg-logo="https://i.imgur.com/jWfsKve.png",VTV4 HD
 http://dntuan.asuscomm.com:14571/rtp/232.84.2.32:10600
-#EXTINF:5 tvg-name="vtv5hd" group-title="VTV" tvg-logo="https://i.imgur.com/d3dvKNa.jpg",VTV5 HD
+#EXTINF:5 tvg-name="VTV5" group-title="VTV" tvg-logo="https://i.imgur.com/d3dvKNa.jpg",VTV5 HD
 http://dntuan.asuscomm.com:14571/rtp/232.84.2.33:10606
-#EXTINF:106 tvg-name="vtv5hdtnb" group-title="VTV" tvg-logo="https://i.imgur.com/fCpZa6a.png",VTV5 Tây Nam Bộ HD
+#EXTINF:106 tvg-name="VTV5 - Tây Nam Bộ" group-title="VTV" tvg-logo="https://i.imgur.com/fCpZa6a.png",VTV5 Tây Nam Bộ HD
 http://dntuan.asuscomm.com:14571/rtp/232.84.3.86:11542
-#EXTINF:6 tvg-name="vtv6hd" group-title="VTV" tvg-logo="https://i.imgur.com/4ChOVPF.png",VTV Cần Thơ HD
+#EXTINF:6 tvg-name="VTV6" group-title="VTV" tvg-logo="https://i.imgur.com/4ChOVPF.png",VTV Cần Thơ HD
 http://dntuan.asuscomm.com:14571/rtp/232.84.1.119:10266
-#EXTINF:9 tvg-name="VTV7 HD" group-title="VTV" tvg-logo="https://i.imgur.com/qW0MBMH.jpg",VTV7 HD
+#EXTINF:9 tvg-name="VTV7" group-title="VTV" tvg-logo="https://i.imgur.com/qW0MBMH.jpg",VTV7 HD
 http://dntuan.asuscomm.com:14571/rtp/232.84.2.202:10996
-#EXTINF:68 tvg-name="VTV8 HD" group-title="VTV" tvg-logo="https://i.imgur.com/7pgnEzG.jpg",VTV8 HD
+#EXTINF:68 tvg-name="VTV8" group-title="VTV" tvg-logo="https://i.imgur.com/7pgnEzG.jpg",VTV8 HD
 http://dntuan.asuscomm.com:14571/rtp/232.84.2.34:10612
-#EXTINF:69 tvg-name="VTV9 HD" group-title="VTV" tvg-logo="https://i.imgur.com/9mL8Ve0.jpg",VTV9 HD
+#EXTINF:69 tvg-name="VTV9" group-title="VTV" tvg-logo="https://i.imgur.com/9mL8Ve0.jpg",VTV9 HD
 http://dntuan.asuscomm.com:14571/rtp/232.84.2.35:10618
 #------------------------VTVcab------------------------#
 #EXTINF:39 tvg-name="ON Football HD" group-title="VTVcab" tvg-logo="https://i.imgur.com/BdZ2IRC.jpg",ON Football HD
