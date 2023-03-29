@@ -440,7 +440,7 @@ http://dntuan.asuscomm.com:14571/rtp/232.84.2.196:10960
 http://dntuan.asuscomm.com:14571/rtp/232.84.1.122:10314
 #EXTINF:130 tvg-name="K+LIFE" group-title="K+" tvg-logo="https://i.imgur.com/E54DrD2.jpg",K+ Life HD
 http://dntuan.asuscomm.com:14571/rtp/232.84.1.123:10320
-#EXTINF:131 tvg-name="K+SPORT1" group-title="K+" tvg-logo="https://i.imgur.com/nSbs15R.jpg",K+ Sport 1 HD
+#EXTINF:131 tvg-id="ksport1hd" group-title="K+" tvg-logo="https://i.imgur.com/nSbs15R.jpg",K+ Sport 1 HD
 http://dntuan.asuscomm.com:14571/rtp/232.84.1.125:10326
 #EXTINF:140 tvg-name="K+SPORT2" group-title="K+" tvg-logo="https://i.imgur.com/pVEfe6D.jpg",K+ Sport 2 HD
 http://dntuan.asuscomm.com:14571/rtp/232.84.1.176:10374
