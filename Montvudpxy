@@ -138,7 +138,7 @@ https://vtsstr6.tv24.vn/live/sctv2_HD_new.smil/playlist.m3u8
 https://vtsstr4.tv24.vn/live/SCTVHDThieunhi_new.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="sctv4hd" group-title="SCTV" tvg-logo="https://logo.anttv.xyz/77.png",SCTV4
 https://vtsstr4.tv24.vn/live/SCTV_HD_GiaiTri_new.smil/playlist.m3u8
-#EXTINF:48 tvg-name="SCTV5" group-title="SCTV" tvg-logo="",SCTV5 SCJ TV Shopping HD
+#EXTINF:48 tvg-name="SCTV5" group-title="SCTV" tvg-logo="https://logo.anttv.xyz/78.png",SCTV5 SCJ TV Shopping HD
 http://192.168.50.1:14571/rtp/232.84.3.254:11446
 #EXTINF:-1 tvg-id="sctv6hd" group-title="SCTV" tvg-logo="https://logo.anttv.xyz/79.png",SCTV6 HD
 #EXTVLCOPT:http-user-agent=ANT TV
