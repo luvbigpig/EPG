@@ -125,6 +125,57 @@ http://192.168.50.1:14571/rtp/232.84.1.170:8994
 http://192.168.50.1:14571/rtp/232.84.1.105:8604
 #EXTINF:205 tvg-name="HTVC Phụ Nữ" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/diEuUuw.jpg",HTVC Phụ Nữ
 http://192.168.50.1:14571/rtp/232.84.1.127:8736
+#------------------------SCTV------------------------#
+#EXTINF:-1 tvg-id="sctv1hd" group-title="SCTV" tvg-logo="https://logo.anttv.xyz/74.png", SCTV1 HD
+https://vtsstr7.tv24.vn/live/SCTV_HD_Hai_new.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="sctv2hd" group-title="SCTV" tvg-logo="https://logo.anttv.xyz/75.png", SCTV2 HD
+https://vtsstr6.tv24.vn/live/sctv2_HD_new.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="sctv3hd" group-title="SCTV" tvg-logo="https://logo.anttv.xyz/76.png", SCTV3 HD
+https://vtsstr4.tv24.vn/live/SCTVHDThieunhi_new.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="sctv4hd" group-title="SCTV" tvg-logo="https://logo.anttv.xyz/77.png", SCTV4 HD
+https://vtsstr4.tv24.vn/live/SCTV_HD_GiaiTri_new.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="sctv5hd" group-title="SCTV" tvg-logo="https://logo.anttv.xyz/78.png", SCTV5 HD - SCJ
+https://api.anttv.xyz/get/sctv/sctv5/playlist.m3u8
+#EXTINF:-1 tvg-id="sctv6hd" group-title="SCTV" tvg-logo="https://logo.anttv.xyz/79.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/film360_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", SCTV6 HD
+#EXTVLCOPT:http-user-agent=ANT TV
+http://vips-livecdn.fptplay.net/hda3/film360_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 tvg-id="sctv7hd" group-title="SCTV" tvg-logo="https://logo.anttv.xyz/80.png", SCTV7 HD
+https://vtsstr4.tv24.vn/live/SCTV_HD_SanKhau_new.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="sctv8hd" group-title="SCTV" tvg-logo="https://logo.anttv.xyz/81.png", SCTV8 HD
+https://vtsstr4.tv24.vn/live/SCTV8_SD_new.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="sctv9hd" group-title="SCTV" tvg-logo="https://logo.anttv.xyz/82.png", SCTV9 HD
+https://vtsstr4.tv24.vn/live/SCTV_HD_PhimChauA_new.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="sctv10" group-title="SCTV" tvg-logo="https://logo.anttv.xyz/83.png", SCTV10
+https://e1.endpoint.cdn.sctvonline.vn/playlist/sctv10/index.m3u8|Referer=https://sctvonline.vn/
+https://vtsstr4.tv24.vn/live/sctv10_SD_new.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="sctv11hd" group-title="SCTV" tvg-logo="https://logo.anttv.xyz/84.png", SCTV11 HD
+https://vtsstr4.tv24.vn/live/SCTVVHNT_HD_new.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="sctv12hd" group-title="SCTV" tvg-logo="https://logo.anttv.xyz/85.png", SCTV12 HD
+https://vtsstr6.tv24.vn/live/SCTV12_HD_new.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="sctv13hd" group-title="SCTV" tvg-logo="https://logo.anttv.xyz/86.png", SCTV13 HD
+https://vtsstr7.tv24.vn/live/SCTVHDPhunuGiadinh_new.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="sctv14hd" group-title="SCTV" tvg-logo="https://logo.anttv.xyz/87.png", SCTV14 HD
+https://api.anttv.xyz/get/sctv/sctv14/playlist.m3u8
+#EXTINF:-1 tvg-id="sctv15hd" group-title="SCTV" tvg-logo="https://logo.anttv.xyz/88.png", SCTV15 HD
+https://856175157.r.vtvcdn.com/ondrm/SCTV15_HD/sc-gaFEAQ/m30_index.m3u8
+#EXTINF:-1 tvg-id="sctv16hd" group-title="SCTV" tvg-logo="https://logo.anttv.xyz/89.png", SCTV16 HD
+https://vtsstr4.tv24.vn/live/SCTV_HD_phimnuocngoaidacsac_new.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="sctv17hd" group-title="SCTV" tvg-logo="https://logo.anttv.xyz/90.png", SCTV17 HD
+https://vtsstr4.tv24.vn/live/SCTV17_HD_new.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="sctv18hd" group-title="SCTV" tvg-logo="https://logo.anttv.xyz/91.png", SCTV18 HD
+https://vtsstr6.tv24.vn/live/SCTV18_HD_new.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="sctv19hd" group-title="SCTV" tvg-logo="https://logo.anttv.xyz/92.png", SCTV19 HD
+https://vtsstr4.tv24.vn/live/SCTV19_HD_new.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="sctv20hd" group-title="SCTV" tvg-logo="https://logo.anttv.xyz/93.png", SCTV20 HD
+https://vtsstr4.tv24.vn/live/SCTV20_HD_new.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="sctv21hd" group-title="SCTV" tvg-logo="https://logo.anttv.xyz/94.png", SCTV21 HD
+https://api.anttv.xyz/get/sctv/sctv21/playlist.m3u8
+#EXTINF:-1 tvg-id="sctv22hd" group-title="SCTV" tvg-logo="https://logo.anttv.xyz/95.png", SCTV22 HD
+https://vtsstr4.tv24.vn/live/SCTV22_HD_new.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="sctvhdpth" group-title="SCTV" tvg-logo="https://logo.anttv.xyz/73.png", SCTV HD Phim Tổng Hợp
+https://vtsstr7.tv24.vn/live/SCTVHD_PhimTongHop.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="btv5hd" group-title="SCTV" tvg-logo="https://logo.anttv.xyz/126.png", BTV5 HD
+https://vtsstr4.tv24.vn/live/btv5_HD_new.smil/playlist.m3u8
 #------------------------Địa Phương------------------------#
 #EXTINF:80 tvg-name="Nhân Dân" group-title="Địa Phương" tvg-logo="https://i.imgur.com/kzrCtPg.jpg",Nhân Dân TV HD
 http://192.168.50.1:14571/rtp/232.84.3.124:10822
