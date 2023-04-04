@@ -1,4 +1,4 @@
-M#EXTM3U url-tvg="https://trada.info/epg.xml"
+#EXTM3U url-tvg="https://trada.info/epg.xml cache=500 deinterlace=1 aspect-ratio=16:9 tvg-shift=0 m3uautoload=1"
 #------------------------VTV------------------------#
 #EXTINF:1 tvg-name="VTV1" group-title="VTV" tvg-logo="https://i.imgur.com/6047gMa.jpg",VTV1 HD
 http://192.168.50.1:14571/rtp/232.84.1.117:10254
@@ -27,6 +27,8 @@ http://192.168.50.1:14571/rtp/232.84.1.210:9234
 http://192.168.50.1:14571/rtp/232.84.1.207:9216
 #EXTINF:101 tvg-id="vtvcab6hd" group-title="VTVcab" tvg-logo="https://cdn.hqth.me/logo/thumbs/17.png",ON Sports+ HD
 http://code.vthanhtivi.pw/getlink/onplus/HAY_TV/m401_index.m3u8
+#EXTINF:-1 tvg-id="" group-title="VTVcab" tvg-logo="https://logo.anttv.xyz/256.png", ON Sports Action
+http://code.vthanhtivi.pw/getlink/onplus/BTV5/m30_index.m3u8
 #EXTINF:197 tvg-name="VTVCab18 - ON Sports News" group-title="VTVcab" tvg-logo="https://i.imgur.com/jdCeaVC.jpg",ON Sports News HD
 http://192.168.50.1:14571/rtp/232.84.2.193:10942
 #EXTINF:199 tvg-name="VTVCab23 - ON Golf" group-title="VTVcab" tvg-logo="https://i.imgur.com/cETq7Wv.jpg",ON Golf HD
@@ -145,7 +147,7 @@ https://vtsstr4.tv24.vn/live/SCTV_HD_SanKhau_new.smil/playlist.m3u8
 https://vtsstr4.tv24.vn/live/SCTV8_SD_new.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="sctv9hd" group-title="SCTV" tvg-logo="https://logo.anttv.xyz/82.png", SCTV9 HD
 https://vtsstr4.tv24.vn/live/SCTV_HD_PhimChauA_new.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="sctv10" group-title="SCTV" tvg-logo="https://logo.anttv.xyz/83.png", SCTV10
+#EXTINF:-1 tvg-id="sctv10hd" group-title="SCTV" tvg-logo="https://logo.anttv.xyz/83.png", SCTV10
 https://e1.endpoint.cdn.sctvonline.vn/playlist/sctv10/index.m3u8|Referer=https://sctvonline.vn/
 https://vtsstr4.tv24.vn/live/sctv10_SD_new.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="sctv11hd" group-title="SCTV" tvg-logo="https://logo.anttv.xyz/84.png", SCTV11 HD
