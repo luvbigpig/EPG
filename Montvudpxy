@@ -27,7 +27,7 @@ http://192.168.50.1:14571/rtp/232.84.1.210:9234
 http://192.168.50.1:14571/rtp/232.84.1.207:9216
 #EXTINF:101 tvg-id="vtvcab6hd" group-title="VTVcab" tvg-logo="https://cdn.hqth.me/logo/thumbs/17.png",ON Sports+ HD
 http://code.vthanhtivi.pw/getlink/onplus/HAY_TV/m401_index.m3u8
-#EXTINF:-1 tvg-id="" group-title="VTVcab" tvg-logo="https://logo.anttv.xyz/256.png", ON Sports Action
+#EXTINF:-1 tvg-id="" group-title="VTVcab" tvg-logo="https://logo.anttv.xyz/256.png",ON Sports Action
 http://code.vthanhtivi.pw/getlink/onplus/BTV5/m30_index.m3u8
 #EXTINF:197 tvg-name="VTVCab18 - ON Sports News" group-title="VTVcab" tvg-logo="https://i.imgur.com/jdCeaVC.jpg",ON Sports News HD
 http://192.168.50.1:14571/rtp/232.84.2.193:10942
@@ -37,14 +37,8 @@ http://192.168.50.1:14571/rtp/232.84.3.244:11386
 http://192.168.50.1:14571/rtp/232.84.2.190:10924
 #EXTINF:102 tvg-name="VTVCab8 - Bibi" group-title="VTVcab" tvg-logo="https://i.imgur.com/1doyHjp.jpg",ON BiBi HD
 http://192.168.50.1:14571/rtp/232.84.3.217:11224
-#EXTINF:99 tvg-name="VTVCab19 - Vie Dramas" group-title="VTVcab" tvg-logo="https://i.imgur.com/mIeWnYi.jpg",VTVcab19 Vie Dramas HD
-http://192.168.50.1:14571/rtp/232.84.3.218:11230
-#EXTINF:97 tvg-name="VTVCab1 - Vie Giải Trí" group-title="VTVcab" tvg-logo="https://i.imgur.com/fVDS1c7.jpg",VTVcab1 Vie Giải Trí
-http://192.168.50.1:14571/rtp/232.84.1.143:8832
 #EXTINF:98 tvg-name="VTVCab2 - ON Phim Việt" group-title="VTVcab" tvg-logo="https://i.imgur.com/6iITUe5.jpg",ON Phim Việt
 http://192.168.50.1:14571/rtp/232.84.1.168:8982
-#EXTINF:100 tvg-name="VTVCab5 - E Channel" group-title="VTVcab" tvg-logo="https://i.imgur.com/XySB4yh.jpg",VTVcab5 E Channel
-http://192.168.50.1:14571/rtp/232.84.3.90:11512
 #EXTINF:91 tvg-name="VTVCab7 - Sức khỏe và cuộc sống" group-title="VTVcab" tvg-logo="https://i.imgur.com/vhA7qXh.jpg",ON O2TV
 http://192.168.50.1:14571/rtp/232.84.1.26:8130
 #EXTINF:-1 tvg-name="VTVCab8 - Bibi" group-title="VTVcab" tvg-logo="https://i.imgur.com/1doyHjp.jpg",ON BiBi
@@ -57,12 +51,20 @@ http://192.168.50.1:14571/rtp/232.84.1.205:9204
 http://192.168.50.1:14571/rtp/232.84.1.244:9438
 #EXTINF:196 tvg-name="VTVCab15 - M Channel" group-title="VTVcab" tvg-logo="https://i.imgur.com/UxE6sLX.jpg",ON Music
 http://192.168.50.1:14571/rtp/232.84.2.192:10936
-#EXTINF:104 tvg-name="VTVCab17 - Yeah1 TV" group-title="VTVcab" tvg-logo="https://i.imgur.com/DSLYQC9.jpg",VTVcab17 Yeah1!TV
-http://192.168.50.1:14571/rtp/232.84.1.217:9276
-#EXTINF:-1 tvg-name="VTVCab19 - Vie Dramas" group-title="VTVcab" tvg-logo="https://i.imgur.com/mIeWnYi.jpg",VTVcab19 Vie Dramas
-http://192.168.50.1:14571/rtp/232.84.1.169:8988
 #EXTINF:132 tvg-name="VTVCab20 - V Family" group-title="VTVcab" tvg-logo="https://i.imgur.com/WsGJxtz.jpg",ON V Family
 http://192.168.50.1:14571/rtp/232.84.1.245:10344
+#EXTINF:97 tvg-name="VTVCab1 - Vie Giải Trí" group-title="VTVcab" tvg-logo="https://i.imgur.com/fVDS1c7.jpg",VTVcab1 Vie Giải Trí
+http://192.168.50.1:14571/rtp/232.84.1.143:8832
+#EXTINF:100 tvg-name="VTVCab5 - E Channel" group-title="VTVcab" tvg-logo="https://i.imgur.com/XySB4yh.jpg",VTVcab5 E Channel
+http://192.168.50.1:14571/rtp/232.84.3.90:11512
+#EXTINF:8 tvg-name="VTVCab11 - GS Shop" group-title="VTVcab" tvg-logo="",VTVcab11 GS Shop
+http://192.168.50.1:14571/rtp/232.84.1.229:9348
+#EXTINF:17 tvg-name="VTVCab13 - VTV Hyundai Homeshopping" group-title="VTVcab" tvg-logo="",VTVcab13 VTV Hyundai Homeshopping
+http://192.168.50.1:14571/rtp/232.84.1.142:10386
+#EXTINF:104 tvg-name="VTVCab17 - Yeah1 TV" group-title="VTVcab" tvg-logo="https://i.imgur.com/DSLYQC9.jpg",VTVcab17 Yeah1!TV
+http://192.168.50.1:14571/rtp/232.84.1.217:9276
+#EXTINF:99 tvg-name="VTVCab19 - Vie Dramas" group-title="VTVcab" tvg-logo="https://i.imgur.com/mIeWnYi.jpg",VTVcab19 Vie Dramas HD
+http://192.168.50.1:14571/rtp/232.84.3.218:11230
 #------------------------VTC------------------------#
 #EXTINF:75 tvg-name="VTC1" group-title="VTC" tvg-logo="https://imgur.com/Pc2ZuX0.png",VTC1 HD
 http://192.168.50.1:14571/rtp/232.84.2.173:10846
@@ -136,8 +138,8 @@ https://vtsstr6.tv24.vn/live/sctv2_HD_new.smil/playlist.m3u8
 https://vtsstr4.tv24.vn/live/SCTVHDThieunhi_new.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="sctv4hd" group-title="SCTV" tvg-logo="https://logo.anttv.xyz/77.png", SCTV4 HD
 https://vtsstr4.tv24.vn/live/SCTV_HD_GiaiTri_new.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="sctv5hd" group-title="SCTV" tvg-logo="https://logo.anttv.xyz/78.png", SCTV5 HD - SCJ
-https://api.anttv.xyz/get/sctv/sctv5/playlist.m3u8
+#EXTINF:48 tvg-name="SCTV5" group-title="SCTV" tvg-logo="",SCTV5 SCJ TV Shopping HD
+http://192.168.50.1:14571/rtp/232.84.3.254:11446
 #EXTINF:-1 tvg-id="sctv6hd" group-title="SCTV" tvg-logo="https://logo.anttv.xyz/79.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/film360_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", SCTV6 HD
 #EXTVLCOPT:http-user-agent=ANT TV
 http://vips-livecdn.fptplay.net/hda3/film360_vhls.smil/chunklist_b5000000.m3u8
@@ -472,13 +474,6 @@ http://192.168.50.1:14571/rtp/232.84.3.189:11056
 http://192.168.50.1:14571/rtp/232.84.3.187:11044
 #EXTINF:-1 tvg-name="" group-title="Quốc Tế" tvg-logo="",YTN
 http://192.168.50.1:14571/rtp/232.84.3.208:11170
-#------------------------Mua Sắm------------------------#
-#EXTINF:48 tvg-name="SCTV5" group-title="Mua Sắm" tvg-logo="",SCTV5 SCJ TV Shopping HD
-http://192.168.50.1:14571/rtp/232.84.3.254:11446
-#EXTINF:8 tvg-name="VTVCab11 - GS Shop" group-title="Mua Sắm" tvg-logo="",VTVcab11 GS Shop
-http://192.168.50.1:14571/rtp/232.84.1.229:9348
-#EXTINF:17 tvg-name="VTVCab13 - VTV Hyundai Homeshopping" group-title="Mua Sắm" tvg-logo="",VTVcab13 VTV Hyundai Homeshopping
-http://192.168.50.1:14571/rtp/232.84.1.142:10386
 #------------------------MyTV------------------------#
 #EXTINF:801 tvg-name="MyTV MyTV & Thể Thao" tvg-logo="https://meco.mytv.vn/static/channel/801.png?ver=19" group-title="MyTV",801 MyTV & Thể Thao
 http://192.168.50.1:14571/rtp/232.84.2.175:10858
