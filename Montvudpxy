@@ -178,8 +178,6 @@ https://api.anttv.xyz/get/sctv/sctv21/playlist.m3u8
 https://vtsstr4.tv24.vn/live/SCTV22_HD_new.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="sctvhdpth" group-title="SCTV" tvg-logo="https://logo.anttv.xyz/73.png",SCTV Phim Tổng Hợp
 https://vtsstr7.tv24.vn/live/SCTVHD_PhimTongHop.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="btv5hd" group-title="SCTV" tvg-logo="https://logo.anttv.xyz/126.png",BTV5 HD
-https://vtsstr4.tv24.vn/live/btv5_HD_new.smil/playlist.m3u8
 #------------------------Địa Phương------------------------#
 #EXTINF:80 tvg-name="Nhân Dân" group-title="Địa Phương" tvg-logo="https://i.imgur.com/kzrCtPg.jpg",Nhân Dân TV HD
 http://192.168.50.1:14571/rtp/232.84.3.124:10822
@@ -484,7 +482,7 @@ http://192.168.50.1:14571/rtp/232.84.2.196:10960
 http://192.168.50.1:14571/rtp/232.84.1.122:10314
 #EXTINF:130 tvg-name="K+LIFE" group-title="K+" tvg-logo="https://i.imgur.com/E54DrD2.jpg",K+ Life HD
 http://192.168.50.1:14571/rtp/232.84.1.123:10320
-#EXTINF:131 tvg-id="ksport1hd" group-title="K+" tvg-logo="https://i.imgur.com/nSbs15R.jpg",K+ Sport 1 HD
+#EXTINF:131 tvg-name="K+SPORT1" group-title="K+" tvg-logo="https://i.imgur.com/nSbs15R.jpg",K+ Sport 1 HD
 http://192.168.50.1:14571/rtp/232.84.1.125:10326
 #EXTINF:140 tvg-name="K+SPORT2" group-title="K+" tvg-logo="https://i.imgur.com/pVEfe6D.jpg",K+ Sport 2 HD
 http://192.168.50.1:14571/rtp/232.84.1.176:10374
