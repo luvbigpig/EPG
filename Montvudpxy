@@ -142,7 +142,6 @@ https://vtsstr4.tv24.vn/live/SCTV_HD_GiaiTri_new.smil/playlist.m3u8
 #EXTINF:48 tvg-name="SCTV5" group-title="SCTV" tvg-logo="https://logo.anttv.xyz/78.png",SCTV5 SCJ TV Shopping HD
 http://192.168.50.1:14571/rtp/232.84.3.254:11446
 #EXTINF:-1 tvg-id="sctv6hd" group-title="SCTV" tvg-logo="https://logo.anttv.xyz/79.png",SCTV6 HD
-#EXTVLCOPT:http-user-agent=ANT TV
 http://vips-livecdn.fptplay.net/hda3/film360_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="sctv7hd" group-title="SCTV" tvg-logo="https://logo.anttv.xyz/80.png",SCTV7
 https://vtsstr4.tv24.vn/live/SCTV_HD_SanKhau_new.smil/playlist.m3u8
@@ -159,9 +158,9 @@ https://vtsstr6.tv24.vn/live/SCTV12_HD_new.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="sctv13hd" group-title="SCTV" tvg-logo="https://logo.anttv.xyz/86.png",SCTV13
 https://vtsstr7.tv24.vn/live/SCTVHDPhunuGiadinh_new.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="sctv14hd" group-title="SCTV" tvg-logo="https://logo.anttv.xyz/87.png",SCTV14
-https://api.anttv.xyz/get/sctv/sctv14/playlist.m3u8
+https://vtsstr6.tv24.vn/livesctv/smil:SCTV14_HD_new.smil/chunklist_w1966538321_b4692000_tkd293emF0b2tlbnN0YXJ0dGltZT0xNjgxNDgwNzMzJndvd3phdG9rZW5lbmR0aW1lPTE2ODE0ODgyMzMmd293emF0b2tlbmN1c3RvbVBhcmFtZXRlcj1teXJhbmRvbWN1c3RvbXBhcmFtZXRlciZ3b3d6YXRva2VuaGFzaD1QLUVMTHMtM05FVjNWYnZ0bC1pQjBscUJOc3k2ZzI2M2JMRm5PMkZDNEtJPQ==.m3u8
 #EXTINF:-1 tvg-id="sctv15hd" group-title="SCTV" tvg-logo="https://logo.anttv.xyz/88.png",SCTV15
-https://v2.sugustv.tk/play/hcmntuan/NFk2bkdXUnNFYmQxTCtMWjcwK3diTGhLSnp1RGVRKytTRUFuaTNZVk4xNTBJV1luQWVCUnBSR2crenFROTJJTmdicjFiWVB2aUFUZE9TaGtmZDFZY3grOVNnM0xhMnVhZHhFSFc1RFh1YVU9OlptVmtZMkpoTURnM05qVTBNekl4TUE9PQ==/master.m3u8
+https://vtsstr4.tv24.vn/live/SCTV_HD_TheThao_new.smil/playlist.m3u8?uid=t2a49464t2e5r4j5p4z5&cid=22
 #EXTINF:-1 tvg-id="sctv16hd" group-title="SCTV" tvg-logo="https://logo.anttv.xyz/89.png",SCTV16
 https://vtsstr4.tv24.vn/live/SCTV_HD_phimnuocngoaidacsac_new.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="sctv17hd" group-title="SCTV" tvg-logo="https://logo.anttv.xyz/90.png",SCTV17
@@ -173,7 +172,7 @@ https://vtsstr4.tv24.vn/live/SCTV19_HD_new.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="sctv20hd" group-title="SCTV" tvg-logo="https://logo.anttv.xyz/93.png",SCTV20
 https://vtsstr4.tv24.vn/live/SCTV20_HD_new.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="sctv21hd" group-title="SCTV" tvg-logo="https://logo.anttv.xyz/94.png",SCTV21
-https://api.anttv.xyz/get/sctv/sctv21/playlist.m3u8
+https://vtsstr3.tv24.vn/elive2_app/SCTV21HD_New_new.smil/chunklist_w1729824213_b1692000_tkbXl0b2tlbnN0YXJ0dGltZT0xNjgxNDg1MjkwJm15dG9rZW5lbmR0aW1lPTE2ODE0OTI3OTAmbXl0b2tlbmhhc2g9clBYY21CbUFyR3FMT3NpNUoxMmNranNkNXZ1dXpldkJYTU1TU2w0N3lXST0=.m3u8?uid=u23474a4u25474z584x506&t_end=o4i5u5h5144423c4u254a4x2v2x2q2
 #EXTINF:-1 tvg-id="sctv22hd" group-title="SCTV" tvg-logo="https://logo.anttv.xyz/95.png",SCTV22
 https://vtsstr4.tv24.vn/live/SCTV22_HD_new.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="sctvhdpth" group-title="SCTV" tvg-logo="https://logo.anttv.xyz/73.png",SCTV Phim Tổng Hợp
