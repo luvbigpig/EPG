@@ -1,3 +1,4 @@
+#EXTM3U m3uautoload=1 deinterlace=1 tvg-shift=0
 #EXTM3U url-tvg="https://trada.info/epg.xml"
 #EXTM3U url-tvg="https://epg.anttv.xyz cache=500 deinterlace=1 aspect-ratio=16:9 tvg-shift=0 m3uautoload=1"
 #------------------------VTV------------------------#
