@@ -555,3 +555,12 @@ https://vips-livecdn.fptplay.net/fnxsport/thethao23_vhls.smil/chunklist_b5500000
 https://vips-livecdn.fptplay.net/fnxsport/thethao24_vhls.smil/chunklist_b5500000.m3u8
 #EXTINF:-1 group-title="FPT" tvg-logo="https://i.ibb.co/FsC8nJD/channels4-profile.jpg", F Sports 25
 https://vips-livecdn.fptplay.net/fnxsport/thethao25_vhls.smil/chunklist_b5500000.m3u8
+
+#EXTINF:-1 group-title="TEST" tvg-logo="", Test 1
+http://192.168.50.164:1131/
+#EXTINF:-1 group-title="TEST" tvg-logo="", Test 2
+http://192.168.50.164:1140/
+#EXTINF:-1 group-title="TEST" tvg-logo="", Test 3
+http://192.168.50.164:1130/
+#EXTINF:-1 group-title="TEST" tvg-logo="", Test 4
+http://192.168.50.164:1129/
