@@ -486,9 +486,9 @@ http://192.168.50.1:14571/rtp/232.84.1.176:10374
 http://192.168.50.1:14571/rtp/232.84.1.96:8550
 #EXTINF:-1 tvg-id="klifehd" group-title="K+" tvg-logo="https://static2.vieon.vn/vieplay-image/livetv_logo_light/2023/03/23/0omrm8pq_logo-ngang_life_720x57627eed03c5ff21a35b693bb9267a62523_468_134.png", K+ Life
 http://192.168.50.1:14571/rtp/232.84.1.97:8556
-#EXTINF:-1 tvg-id="ksport1hd" group-title="K+" tvg-logo="https://static2.vieon.vn/vieplay-image/livetv_logo_light/2023/03/23/gy20m6hv_logo-ngang_sport1_720x576b86e79c3bc9920dd4026b928dd67ddd0_468_134.png", K+ Sport1
+#EXTINF:-1 tvg-id="ksport1hd" group-title="K+" tvg-logo="https://static2.vieon.vn/vieplay-image/livetv_logo_light/2023/03/23/gy20m6hv_logo-ngang_sport1_720x576b86e79c3bc9920dd4026b928dd67ddd0_468_134.png", K+ Sport 1
 http://192.168.50.1:14571/rtp/232.84.1.98:8562
-#EXTINF:-1 tvg-id="ksport2hd" group-title="K+" tvg-logo="https://static2.vieon.vn/vieplay-image/livetv_logo_light/2023/03/23/j5ozom25_logo-ngang_sport2_720x576f2694c81216fe843f68e134f8e2c988f_468_134.png", K+ Sport2
+#EXTINF:-1 tvg-id="ksport2hd" group-title="K+" tvg-logo="https://static2.vieon.vn/vieplay-image/livetv_logo_light/2023/03/23/j5ozom25_logo-ngang_sport2_720x576f2694c81216fe843f68e134f8e2c988f_468_134.png", K+ Sport 2
 http://192.168.50.1:14571/rtp/232.84.1.131:10368
 #------------------------FPT------------------------#
 #EXTINF:-1 group-title="FPT" tvg-logo="https://theme.zdassets.com/theme_assets/2445237/88e391e2e1ab45a87fe39ad5730b3eabb65d55b4.png", FPT Play Event 1
