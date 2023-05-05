@@ -263,13 +263,13 @@ http://192.168.50.1:14571/rtp/232.84.1.153:8892
 http://192.168.50.1:14571/rtp/232.84.3.204:11146
 #EXTINF:711 tvg-id="bentre" group-title="Địa Phương" tvg-logo="https://img.vnmedia.xyz/logo/bentre.png",THBT HD _ TH Bến Tre HD
 http://192.168.50.1:14571/rtp/232.84.3.95:11482
-#EXTINF:24 tvg-id="vinhlong1hd" group-title="Địa Phương" tvg-logo="https://img.vnmedia.xyz/logo/inhlong1hd.jpg",THVL1 HD _ TH Vĩnh Long HD
+#EXTINF:24 tvg-id="vinhlong1hd" group-title="Địa Phương" tvg-logo="https://img.vnmedia.xyz/logo/vinhlong1hd.jpg",THVL1 HD _ TH Vĩnh Long HD
 http://192.168.50.1:14571/rtp/232.84.2.183:10882
 #EXTINF:28 tvg-id="vinhlong2hd" group-title="Địa Phương" tvg-logo="https://img.vnmedia.xyz/logo/vinhlong2hd.jpg",THVL2 HD _ TH Vĩnh Long HD
 http://192.168.50.1:14571/rtp/232.84.2.184:10888
 #EXTINF:29 tvg-id="vinhlong3hd" group-title="Địa Phương" tvg-logo="https://img.vnmedia.xyz/logo/vinhlong3hd.jpg",THVL3 HD _ TH Vĩnh Long HD
 http://192.168.50.1:14571/rtp/232.84.3.165:10900
-#EXTINF:57 tvg-id="vinhlong4hd" group-title="Địa Phương" tvg-logo="https://img.vnmedia.xyz/logo/vinhlong4hd.jpg",THVL4 HD _ TH Vĩnh Long HD
+#EXTINF:57 tvg-id="vinhlong4hd" group-title="Địa Phương" tvg-logo="https://img.vnmedia.xyz/logo/vinhlong4hd.png",THVL4 HD _ TH Vĩnh Long HD
 http://192.168.50.1:14571/rtp/232.84.3.160:10912
 #EXTINF:683 tvg-id="kiengiang" group-title="Địa Phương" tvg-logo="https://img.vnmedia.xyz/logo/kiengiang.png",KG _ TH Kiên Giang HD
 http://192.168.50.1:14571/rtp/232.84.3.161:10918
