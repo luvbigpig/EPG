@@ -13,9 +13,9 @@ http://192.168.50.1:14571/rtp/232.84.1.210:9234
 #EXTINF:37 tvg-id="vtvcab3hd" group-title="SPORT" tvg-logo="https://img.vnmedia.xyz/logo/on-sports.jpg",ON Sports HD
 http://192.168.50.1:14571/rtp/232.84.1.207:9216
 #EXTINF:101 tvg-id="vtvcab6hd" group-title="SPORT" tvg-logo="https://img.vnmedia.xyz/logo/on-sportsplus.jpg",ON Sports+ HD
-https://tbtv.us/api/onsportplus/on-sport-plus.m3u8
+http://192.168.50.164:1/onsportplus
 #EXTINF:-1 tvg-id="btv5hd" group-title="SPORT" tvg-logo="https://logo.anttv.xyz/256.png",ON Sports Action
-https://tbtv.us/api/onsportplus/btv5.m3u8
+http://192.168.50.164:2/onsportact
 #EXTINF:197 tvg-id="vtvcab18hd" group-title="SPORT" tvg-logo="https://img.vnmedia.xyz/logo/on-sportsnews.jpg",ON Sports News HD
 http://192.168.50.1:14571/rtp/232.84.2.193:10942
 #EXTINF:199 tvg-id="vtvcab23hd" group-title="SPORT" tvg-logo="https://img.vnmedia.xyz/logo/on-golf.jpg",ON Golf HD
