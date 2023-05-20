@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bin/sh
 # tv_grab_file for Vietnamese EPG remote XMLTV file
 
 LINK='http://lichphatsong.xyz/schedule/epg.xml'
