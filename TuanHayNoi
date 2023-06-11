@@ -15,7 +15,7 @@ http://192.168.50.1:14571/rtp/232.84.1.207:9216
 #EXTINF:101 tvg-id="vtvcab6hd" group-title="SPORT" tvg-logo="https://img.vnmedia.xyz/logo/on-sportsplus.jpg",ON Sports+ HD
 http://gg.gg/14571-onsportplus
 #EXTINF:-1 tvg-id="btv5hd" group-title="SPORT" tvg-logo="https://logo.anttv.xyz/256.png",ON Sports Action
-http://192.168.50.164:2000
+https://code.vthanhtivi.pw/getlink/tv360/2380/2.m3u8
 #EXTINF:197 tvg-id="vtvcab18hd" group-title="SPORT" tvg-logo="https://img.vnmedia.xyz/logo/on-sportsnews.jpg",ON Sports News HD
 http://192.168.50.1:14571/rtp/232.84.2.193:10942
 #EXTINF:199 tvg-id="vtvcab23hd" group-title="SPORT" tvg-logo="https://img.vnmedia.xyz/logo/on-golf.jpg",ON Golf HD
