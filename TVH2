@@ -13,7 +13,7 @@ http://192.168.50.1:14571/rtp/232.84.1.210:9234
 #EXTINF:37 tvg-id="vtvcab3hd" group-title="SPORT" tvg-logo="https://img.vnmedia.xyz/logo/on-sports.jpg",ON Sports HD
 http://192.168.50.1:14571/rtp/232.84.1.207:9216
 #EXTINF:101 tvg-id="vtvcab6hd" group-title="SPORT" tvg-logo="https://img.vnmedia.xyz/logo/on-sportsplus.jpg",ON Sports+ HD
-https://api.anttv.xyz/get/vtvcab/vtvcab6/playlist.m3u8
+http://gg.gg/14571-onsportplus
 #EXTINF:-1 tvg-id="btv5hd" group-title="SPORT" tvg-logo="https://logo.anttv.xyz/256.png",ON Sports Action
 https://code.vthanhtivi.pw/getlink/tv360/2380/2.m3u8
 #EXTINF:197 tvg-id="vtvcab18hd" group-title="SPORT" tvg-logo="https://img.vnmedia.xyz/logo/on-sportsnews.jpg",ON Sports News HD
@@ -29,13 +29,13 @@ http://192.168.50.1:14571/rtp/232.84.2.31:10594
 http://192.168.50.1:14571/rtp/232.84.1.118:10260
 #EXTINF:4 tvg-id="vtv4hd" group-title="VTV" tvg-logo="https://img.vnmedia.xyz/logo/vtv4hd.jpg" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtv4_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8",VTV4 HD
 http://192.168.50.1:14571/rtp/232.84.2.32:10600
-#EXTINF:5 tvg-name="VTV5" group-title="VTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/2/25/VTV5_logo_%282013-nay%29.png/revision/latest/scale-to-width-down/1000?cb=20201228131243&path-prefix=vi" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtv5hd_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8",VTV5 HD
+#EXTINF:5 tvg-id="vtv5hd" group-title="VTV" tvg-logo="https://img.vnmedia.xyz/logo/vtv5hd.jpg" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtv5hd_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8",VTV5 HD
 http://192.168.50.1:14571/rtp/232.84.2.33:10606
 
-#EXTINF:-1 tvg-name="VTV5 - Tây Nguyên" group-title="VTV" tvg-logo="https://img.vnmedia.xyz/logo/vtv5hdtn.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtv5taynguyen_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8",VTV5 Tây Nguyên HD
-https://vips-livecdn.fptplay.net/hda3/vtv5taynguyen_4000.stream/chunklist.m3u8
+#EXTINF:-1 tvg-id="vtv5hdtn" group-title="VTV" tvg-logo="https://img.vnmedia.xyz/logo/vtv5hdtn.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtv5taynguyen_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8",VTV5 Tây Nguyên HD
+https://code.vthanhtivi.pw/getlink/tv360/207/2.m3u8
 
-#EXTINF:106 tvg-name="VTV5 - Tây Nam Bộ" group-title="VTV" tvg-logo="https://img.vnmedia.xyz/logo/vtv5hd.jpg" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtv5tnb_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8",VTV5 Tây Nam Bộ HD
+#EXTINF:106 tvg-id="vtv5hdtnb" group-title="VTV" tvg-logo="https://img.vnmedia.xyz/logo/vtv5hdtnb.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtv5tnb_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8",VTV5 Tây Nam Bộ HD
 http://192.168.50.1:14571/rtp/232.84.3.86:11542
 #EXTINF:6 tvg-id="vtv6hd" group-title="VTV" tvg-logo="https://img.vnmedia.xyz/logo/vtv6hd.jpg" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtvcantho_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8",VTV Cần Thơ HD
 http://192.168.50.1:14571/rtp/232.84.1.119:10266
@@ -385,6 +385,3 @@ http://192.168.50.1:14571/rtp/232.84.2.176:10864
 http://192.168.50.1:14571/rtp/232.84.2.195:10954
 #EXTINF:804 tvg-id="MyTV Giải Trí Tổng Hợp" tvg-logo="https://meco.mytv.vn/static/channel/804.png?ver=19" group-title="MyTV",804 Giải Trí Tổng Hợp
 http://192.168.50.1:14571/rtp/232.84.2.196:10960
-
-
-
