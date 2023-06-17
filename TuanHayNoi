@@ -433,13 +433,13 @@ http://192.168.50.1:14571/rtp/232.84.2.195:10954
 #EXTINF:804 tvg-id="MyTV Giải Trí Tổng Hợp" tvg-logo="https://meco.mytv.vn/static/channel/804.png?ver=19" group-title="MyTV",804 Giải Trí Tổng Hợp
 http://192.168.50.1:14571/rtp/232.84.2.196:10960
 
-#EXTINF:-1 group-title="TV 360" tvg-logo="http://img-zlr1.tv360.vn/image1/2023/02/10/15/1676017184627/cd3d4c1e88ff_480_270.png", TV360+ 1
+#EXTINF:-1 group-title="TV360" tvg-logo="http://img-zlr1.tv360.vn/image1/2023/02/10/15/1676017184627/cd3d4c1e88ff_480_270.png", TV360+ 1
 http://live-ali2.tv360.vn/manifest/sukien/playlist_1080p-5M.m3u8
-#EXTINF:-1 group-title="TV 360" tvg-logo="http://img-zlr1.tv360.vn/image1/2023/02/10/15/1676017310434/c702b55e7aa8_480_270.png", TV360+ 2
-http://live.tv360.vn/manifest/u23-dubaicup2/playlist_U23-dubaicup2-1080p.m3u8
-#EXTINF:-1 group-title="TV 360" tvg-logo="http://img-zlr1.tv360.vn/image1/2023/02/10/15/1676017385349/790530ec477b_480_270.png", TV360+ 3
+#EXTINF:-1 group-title="TV360" tvg-logo="http://img-zlr1.tv360.vn/image1/2023/02/10/15/1676017310434/c702b55e7aa8_480_270.png", TV360+ 2
+https://code.vthanhtivi.pw/getlink/tv360/1/2.m3u8
+#EXTINF:-1 group-title="TV360" tvg-logo="http://img-zlr1.tv360.vn/image1/2023/02/10/15/1676017385349/790530ec477b_480_270.png", TV360+ 3
 https://live-zlr1.tv360.vn/manifest/Su_Kien_3/playlist_1080p.m3u8
-#EXTINF:-1 group-title="TV 360" tvg-logo="http://img-zlr1.tv360.vn/image1/2023/03/21/13/1679381719416/902f0862cc9b_480_270.png", TV360+ 4
+#EXTINF:-1 group-title="TV360" tvg-logo="http://img-zlr1.tv360.vn/image1/2023/03/21/13/1679381719416/902f0862cc9b_480_270.png", TV360+ 4
 https://live-zlr1.tv360.vn/manifest/Su_Kien_4/playlist_1080p.m3u8
 
 #EXTINF:-1 group-title="FPT" tvg-logo="https://theme.zdassets.com/theme_assets/2445237/88e391e2e1ab45a87fe39ad5730b3eabb65d55b4.png", FPT Play Event 1
