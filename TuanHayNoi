@@ -1,19 +1,20 @@
 #EXTM3U url-tvg="http://lichphatsong.xyz/schedule/epg.xml,http://trada.info/epg.xml" cache=500 deinterlace=1 aspect-ratio=16:9 tvg-shift=0 m3uautoload=1
 #------------------------SPORT------------------------#
-#EXTINF:-1 tvg-id="kcinehd" group-title="SPORT" tvg-logo="https://static2.vieon.vn/vieplay-image/livetv_logo_light/2023/03/23/02hp1gcu_logo-ngang_cine_720x576d4a876d2e35201f6186bc8e96ecccbb2_468_134.png", K+ Cine
-http://192.168.50.1:14571/rtp/232.84.1.96:8550
-#EXTINF:-1 tvg-id="klifehd" group-title="SPORT" tvg-logo="https://static2.vieon.vn/vieplay-image/livetv_logo_light/2023/03/23/0omrm8pq_logo-ngang_life_720x57627eed03c5ff21a35b693bb9267a62523_468_134.png", K+ Life
-http://192.168.50.1:14571/rtp/232.84.1.97:8556
-#EXTINF:-1 tvg-id="ksport1hd" group-title="SPORT" tvg-logo="https://static2.vieon.vn/vieplay-image/livetv_logo_light/2023/03/23/gy20m6hv_logo-ngang_sport1_720x576b86e79c3bc9920dd4026b928dd67ddd0_468_134.png", K+ Sport 1
-http://192.168.50.1:14571/rtp/232.84.1.98:8562
-#EXTINF:-1 tvg-id="ksport2hd" group-title="SPORT" tvg-logo="https://static2.vieon.vn/vieplay-image/livetv_logo_light/2023/03/23/j5ozom25_logo-ngang_sport2_720x576f2694c81216fe843f68e134f8e2c988f_468_134.png", K+ Sport 2
-http://192.168.50.1:14571/rtp/232.84.1.131:10368
+#EXTINF:131 tvg-id="ksport1hd" group-title="SPORT" tvg-logo="https://i.imgur.com/nSbs15R.jpg",K+ Sport 1 HD
+http://192.168.50.1:14571/rtp/232.84.1.125:10326
+#EXTINF:140 tvg-id="ksport2hd" group-title="SPORT" tvg-logo="https://i.imgur.com/pVEfe6D.jpg",K+ Sport 2 HD
+http://192.168.50.1:14571/rtp/232.84.1.176:10374
+#EXTINF:129 tvg-id="kcinehd" group-title="SPORT" tvg-logo="https://i.imgur.com/QYVgR3y.jpg",K+ Cine HD
+http://192.168.50.1:14571/rtp/232.84.1.122:10314
+#EXTINF:130 tvg-id="klifehd" group-title="SPORT" tvg-logo="https://i.imgur.com/E54DrD2.jpg",K+ Life HD
+http://192.168.50.1:14571/rtp/232.84.1.123:10320
 #EXTINF:39 tvg-id="vtvcab16hd" group-title="SPORT" tvg-logo="https://img.vnmedia.xyz/logo/on-football.jpg",ON Football HD
 http://192.168.50.1:14571/rtp/232.84.1.210:9234
 #EXTINF:37 tvg-id="vtvcab3hd" group-title="SPORT" tvg-logo="https://img.vnmedia.xyz/logo/on-sports.jpg",ON Sports HD
 http://192.168.50.1:14571/rtp/232.84.1.207:9216
 #EXTINF:101 tvg-id="vtvcab6hd" group-title="SPORT" tvg-logo="https://img.vnmedia.xyz/logo/on-sportsplus.jpg",ON Sports+ HD
-http://1:1@192.168.50.141:9981/stream/channelid/281462666?profile=pass
+http://1:1@192.168.50.141:9981/stream/channelid/1645605180?profile=pass
+#http://1:1@192.168.50.141:9981/stream/channelid/281462666?profile=pass
 #EXTINF:-1 tvg-id="btv5hd" group-title="SPORT" tvg-logo="https://logo.anttv.xyz/256.png",ON Sports Action
 https://code.vthanhtivi.pw/getlink/tv360/2380/2.m3u8
 #EXTINF:197 tvg-id="vtvcab18hd" group-title="SPORT" tvg-logo="https://img.vnmedia.xyz/logo/on-sportsnews.jpg",ON Sports News HD
@@ -514,3 +515,11 @@ https://multi-playlist-zmp3.zmdcdn.me/94rxZ-Dfzro/zhls/playback-realtime/ff294de
 #EXTINF:-1 group-title="Radio" tvg-logo="https://photo-zmp3.zmdcdn.me/cover_rect/3/1/0/d/310df4f53c1026d4cb2844dc96cc01d3.jpg", Zing MP3 - USUK
 https://multi-playlist-zmp3.zmdcdn.me/RckDo1XPsU4/zhls/playback-realtime/111c87d8bb9d52c30b8c/index.m3u8
 
+#EXTINF:-1 tvg-id="ksport1hd" group-title=" " tvg-logo="https://static2.vieon.vn/vieplay-image/livetv_logo_light/2023/03/23/gy20m6hv_logo-ngang_sport1_720x576b86e79c3bc9920dd4026b928dd67ddd0_468_134.png", K+ Sport 1
+http://192.168.50.1:14571/rtp/232.84.1.98:8562
+#EXTINF:-1 tvg-id="ksport2hd" group-title=" " tvg-logo="https://static2.vieon.vn/vieplay-image/livetv_logo_light/2023/03/23/j5ozom25_logo-ngang_sport2_720x576f2694c81216fe843f68e134f8e2c988f_468_134.png", K+ Sport 2
+http://192.168.50.1:14571/rtp/232.84.1.131:10368
+#EXTINF:-1 tvg-id="kcinehd" group-title=" " tvg-logo="https://static2.vieon.vn/vieplay-image/livetv_logo_light/2023/03/23/02hp1gcu_logo-ngang_cine_720x576d4a876d2e35201f6186bc8e96ecccbb2_468_134.png", K+ Cine
+http://192.168.50.1:14571/rtp/232.84.1.96:8550
+#EXTINF:-1 tvg-id="klifehd" group-title=" " tvg-logo="https://static2.vieon.vn/vieplay-image/livetv_logo_light/2023/03/23/0omrm8pq_logo-ngang_life_720x57627eed03c5ff21a35b693bb9267a62523_468_134.png", K+ Life
+http://192.168.50.1:14571/rtp/232.84.1.97:8556
