@@ -1,24 +1,26 @@
 #EXTM3U url-tvg="https://trada.info/epg.xml"
 #------------------------VTV------------------------#
-#EXTINF:1 tvg-name="VTV1" group-title="VTV" tvg-logo="https://i.imgur.com/6047gMa.jpg",VTV1 HD
+#EXTINF:-1 tvg-name=""tvg-id="vtv1hd"tvg-logo="https://apigw.mytv.vn/api/v1/channel/static/channel/210.png?ver=16"group-title="VTV"catchup="append"catchup-source="https://tshift.fptplay.net/dvr/vtv1hd_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8"catchup-days="2",VTV1 HD
 http://192.168.50.1:14571/rtp/232.84.1.117:10254
-#EXTINF:2 tvg-name="VTV2" group-title="VTV" tvg-logo="https://i.imgur.com/pqPWPzf.jpg",VTV2 HD
+#EXTINF:-1 tvg-name=""tvg-id="vtv2hd"tvg-logo="https://apigw.mytv.vn/api/v1/channel/static/channel/377.png?ver=19"group-title="VTV"catchup="append"catchup-source="https://tshift.fptplay.net/dvr/vtv2_2000.stream/chunks_dvr_range-${start}-${offset}.m3u8"catchup-days="2",VTV2 HD
 http://192.168.50.1:14571/rtp/232.84.2.31:10594
-#EXTINF:3 tvg-name="VTV3" group-title="VTV" tvg-logo="https://i.imgur.com/Bsaeckx.jpg",VTV3 HD
+#EXTINF:-1 tvg-name=""tvg-id="vtv3hd"tvg-logo="https://apigw.mytv.vn/api/v1/channel/static/channel/211.png?ver=17"group-title="VTV"catchup="append"catchup-source="https://tshift.fptplay.net/dvr/vtv3hd_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8"catchup-days="2",VTV3 HD
 http://192.168.50.1:14571/rtp/232.84.1.118:10260
-#EXTINF:4 tvg-name="VTV4" group-title="VTV" tvg-logo="https://i.imgur.com/jWfsKve.png",VTV4 HD
+#EXTINF:-1 tvg-name=""tvg-id="vtv4hd"tvg-logo="https://apigw.mytv.vn/api/v1/channel/static/channel/378.png?ver=19"group-title="VTV"catchup="append"catchup-source="https://tshift.fptplay.net/dvr/vtv4_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8"catchup-days="2",VTV4 HD
 http://192.168.50.1:14571/rtp/232.84.2.32:10600
-#EXTINF:5 tvg-name="VTV5" group-title="VTV" tvg-logo="https://i.imgur.com/d3dvKNa.jpg",VTV5 HD
+#EXTINF:-1 tvg-name=""tvg-id="vtv5hd"tvg-logo="https://apigw.mytv.vn/api/v1/channel/static/channel/379.png?ver=20"group-title="VTV"catchup="append"catchup-source="https://tshift.fptplay.net/dvr/vtv5hd_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8"catchup-days="2",VTV5 HD
 http://192.168.50.1:14571/rtp/232.84.2.33:10606
-#EXTINF:106 tvg-name="VTV5 - Tây Nam Bộ" group-title="VTV" tvg-logo="https://i.imgur.com/fCpZa6a.png",VTV5 Tây Nam Bộ HD
+#EXTINF:-1 tvg-name=""tvg-id="vtv5hdtn"tvg-logo="https://img.vnmedia.xyz/logo/vtv5hdtn.png"group-title="VTV"catchup="append"catchup-source="https://tshift.fptplay.net/dvr/vtv5taynguyen_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8"catchup-days="2",VTV5 Tây Nguyên HD
+https://code.vthanhtivi.pw/getlink/tv360/207/2.m3u8
+#EXTINF:-1 tvg-name=""tvg-id="vtv5hdtnb"tvg-logo="https://apigw.mytv.vn/api/v1/channel/static/channel/615.png?ver=1"group-title="VTV"catchup="append"catchup-source="https://tshift.fptplay.net/dvr/vtv5tnb_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8"catchup-days="2",VTV5 Tây Nam Bộ HD
 http://192.168.50.1:14571/rtp/232.84.3.86:11542
-#EXTINF:6 tvg-name="VTV6" group-title="VTV" tvg-logo="https://i.imgur.com/4ChOVPF.png",VTV Cần Thơ HD
+#EXTINF:-1 tvg-name=""tvg-id="vtv6hd"tvg-logo="https://apigw.mytv.vn/api/v1/channel/static/channel/212.png?ver=23"group-title="VTV"catchup="append"catchup-source="https://tshift.fptplay.net/dvr/vtvcantho_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8"catchup-days="2",VTV Cần Thơ HD
 http://192.168.50.1:14571/rtp/232.84.1.119:10266
-#EXTINF:9 tvg-name="VTV7" group-title="VTV" tvg-logo="https://i.imgur.com/qW0MBMH.jpg",VTV7 HD
+#EXTINF:-1 tvg-name=""tvg-id="vtv7hd"tvg-logo="https://apigw.mytv.vn/api/v1/channel/static/channel/459.png?ver=8"group-title="VTV"catchup="append"catchup-source="https://tshift.fptplay.net/dvr/vtv7hd_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8"catchup-days="2",VTV7 HD
 http://192.168.50.1:14571/rtp/232.84.2.202:10996
-#EXTINF:68 tvg-name="VTV8" group-title="VTV" tvg-logo="https://i.imgur.com/7pgnEzG.jpg",VTV8 HD
+#EXTINF:-1 tvg-name=""tvg-id="vtv8hd"tvg-logo="https://apigw.mytv.vn/api/v1/channel/static/channel/380.png?ver=15"group-title="VTV"catchup="append"catchup-source="https://tshift.fptplay.net/dvr/vtv8hd_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8"catchup-days="2",VTV8 HD
 http://192.168.50.1:14571/rtp/232.84.2.34:10612
-#EXTINF:69 tvg-name="VTV9" group-title="VTV" tvg-logo="https://i.imgur.com/9mL8Ve0.jpg",VTV9 HD
+#EXTINF:-1 tvg-name=""tvg-id="vtv9hd"tvg-logo="https://apigw.mytv.vn/api/v1/channel/static/channel/381.png?ver=15"group-title="VTV"catchup="append"catchup-source="https://tshift.fptplay.net/dvr/vtv9_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8"catchup-days="2",VTV9 HD
 http://192.168.50.1:14571/rtp/232.84.2.35:10618
 #------------------------VTVcab------------------------#
 #EXTINF:39 tvg-name="VTVCab16 - ON Football" group-title="VTVcab" tvg-logo="https://i.imgur.com/BdZ2IRC.jpg",ON Football HD
