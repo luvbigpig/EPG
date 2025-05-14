@@ -1,6 +1,7 @@
 EPG TVH
 
-cd /usr/bin
+cd /data/data/com.termux/files/usr/bin
+
 
 sudo su
 
