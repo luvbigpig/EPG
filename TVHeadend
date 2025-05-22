@@ -4,13 +4,13 @@ rtp://@232.84.1.117:10254
 #EXTINF:-1 tvg-id="vtv2hd"tvg-logo="https://i.imgur.com/BVwi3K3.png"group-title="VTV",VTV2 (HD)
 rtp://@232.84.2.31:10594
 #EXTINF:-1 tvg-id="vtv3hd"tvg-logo="https://i.imgur.com/7rLCvgS.png"group-title="VTV",VTV3 (HD)
-rtp://@232.84.1.118:10260
+rtp://@232.84.3.249:11416
 #EXTINF:-1 tvg-id="vtv4hd"tvg-logo="https://i.imgur.com/9zVTtsA.png"group-title="VTV",VTV4 (HD)
 rtp://@232.84.3.106:10600
 #EXTINF:-1 tvg-id="vtv5hd"tvg-logo="https://i.imgur.com/7qPKNFU.png"group-title="VTV",VTV5 (HD)
 rtp://@232.84.3.251:11428
 #EXTINF:-1 tvg-id="vtv6hd"tvg-logo="https://i.imgur.com/HCpqatZ.png"group-title="VTV",VTV Cần Thơ
-rtp://@232.84.1.119:10266
+rtp://@232.84.3.252:11434
 #EXTINF:-1 tvg-id="vtv7hd"tvg-logo="https://i.imgur.com/AgamSNe.png"group-title="VTV",VTV7 (HD)
 rtp://@232.84.2.202:10996
 #EXTINF:-1 tvg-id="vtv8hd"tvg-logo="https://i.imgur.com/lpcltL9.png"group-title="VTV",VTV8 (HD)
