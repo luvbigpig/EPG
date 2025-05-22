@@ -25,6 +25,7 @@ rtp://@232.84.3.66:11656
 rtp://@232.84.3.127:10816
 #EXTINF:-1 tvg-id="antvhd"tvg-logo="https://i.imgur.com/eGkFbAh.png"group-title="Kênh TH Thiết yếu",ANTV
 rtp://@232.84.1.212:9246
+
 #EXTINF:-1 tvg-id="vtvcab16hd"tvg-logo="https://i.imgur.com/WAxiIfP.png"group-title="VTVcab",ON Football (HD)
 rtp://@232.84.1.210:9234
 #EXTINF:-1 tvg-id="vtvcab3hd"tvg-logo="https://i.imgur.com/moYwxwf.png"group-title="VTVcab",ON Sports (HD)
@@ -65,6 +66,7 @@ rtp://@232.84.3.68:11644
 rtp://@232.84.3.218:11230
 #EXTINF:-1 tvg-id="vtvcab1hd"tvg-logo="https://i.imgur.com/7GSKm46.png"group-title="VTVcab",ON Vie Giải Trí (HD)
 rtp://@232.84.3.78:11584
+
 #EXTINF:-1 tvg-id="kcinehd"tvg-logo="https://i.imgur.com/As4bwUs.png"group-title="K+",K+ Cine (HD)
 rtp://@232.84.1.38:8202
 #EXTINF:-1 tvg-id="kaction"tvg-logo="https://i.imgur.com/QPkuBRi.png"group-title="K+",K+ Action (HD)
@@ -83,6 +85,7 @@ rtp://@232.84.1.123:10320
 rtp://@232.84.1.125:10326
 #EXTINF:-1 tvg-id="ksport2hd"tvg-logo="https://i.imgur.com/EFeyqYX.png"group-title="K+",K+ Sport 2
 rtp://@232.84.1.176:10374
+
 #EXTINF:-1 tvg-id="sctv1hd"tvg-logo="https://i.imgur.com/imhFxSG.png"group-title="SCTV",SCTV1 (HD)
 rtp://@232.84.3.34:11848
 #EXTINF:-1 tvg-id="sctv2hd"tvg-logo="https://i.imgur.com/UpBZOaH.png"group-title="SCTV",SCTV2 (HD)
@@ -213,78 +216,14 @@ rtp://@232.84.2.140:10660
 rtp://@232.84.3.65:11662
 #EXTINF:-1 tvg-id="cartoonhd"tvg-logo="https://i.imgur.com/6oXQdBZ.png"group-title="Quốc Tế",Cartoon Network (HD)
 rtp://@232.84.3.62:11680
-#EXTINF:-1 tvg-id=""tvg-logo="https://i.imgur.com/Nz525XH.png"group-title="Quốc Tế",123TV 
-rtp://@232.84.3.39:11818
-#EXTINF:-1 tvg-id="abcaustralia"tvg-logo="https://i.imgur.com/UI80qhw.png"group-title="Quốc Tế",ABC Australia
-rtp://@232.84.3.131:10482
-#EXTINF:-1 tvg-id=""tvg-logo="https://i.imgur.com/py4oLTl.png"group-title="Quốc Tế",Al Jazeera
-rtp://@232.84.3.206:11158
-#EXTINF:-1 tvg-id="arirang"tvg-logo="https://i.imgur.com/DZNTBjC.png"group-title="Quốc Tế",Arirang
-rtp://@232.84.1.43:8238
-#EXTINF:-1 tvg-id=""tvg-logo="https://i.imgur.com/insertlogo.png"group-title="Quốc Tế",ATV
-rtp://@232.84.3.35:11842
-#EXTINF:-1 tvg-id=""tvg-logo="https://i.imgur.com/RuFdEA1.png"group-title="Quốc Tế",Baden TV Sud
-rtp://@232.84.3.36:11836
-#EXTINF:-1 tvg-id=""tvg-logo="https://i.imgur.com/rkF6lUv.png"group-title="Quốc Tế",CCTV2
-rtp://@232.84.2.240:10458
-#EXTINF:-1 tvg-id=""tvg-logo="https://i.imgur.com/XXBAJpA.png"group-title="Quốc Tế",CCTV4
-rtp://@232.84.3.183:11020
-#EXTINF:-1 tvg-id=""tvg-logo="https://i.imgur.com/ZtabYMS.png"group-title="Quốc Tế",CCTV7
-rtp://@232.84.3.184:11026
-#EXTINF:-1 tvg-id=""tvg-logo="https://i.imgur.com/J5I7ne4.png"group-title="Quốc Tế",CCTV10
-rtp://@232.84.2.170:10828
-#EXTINF:-1 tvg-id=""tvg-logo="https://i.imgur.com/15Mu89g.png"group-title="Quốc Tế",CCTV12
-rtp://@232.84.3.180:11002
-#EXTINF:-1 tvg-id=""tvg-logo="https://i.imgur.com/hg9DBpz.png"group-title="Quốc Tế",CCTV13
-rtp://@232.84.3.79:11578
-#EXTINF:-1 tvg-id=""tvg-logo="https://i.imgur.com/TW3G7W9.png"group-title="Quốc Tế",CCTV14
-rtp://@232.84.3.182:11014
-#EXTINF:-1 tvg-id=""tvg-logo="https://i.imgur.com/SAQgczi.png"group-title="Quốc Tế",CCTV15
-rtp://@232.84.3.181:11008
-#EXTINF:-1 tvg-id=""tvg-logo="https://i.imgur.com/RIQE8kA.png"group-title="Quốc Tế",CNA
-rtp://@232.84.1.5:8004
-#EXTINF:-1 tvg-id=""tvg-logo="https://i.imgur.com/OKvk2mU.png"group-title="Quốc Tế",Dragon TV
-rtp://@232.84.3.185:11032
 #EXTINF:-1 tvg-id="france24eng"tvg-logo="https://i.imgur.com/YF2zMTz.png"group-title="Quốc Tế",France 24 (English)
 rtp://@232.84.3.145:9606
-#EXTINF:-1 tvg-id=""tvg-logo="https://i.imgur.com/IRjtg6r.png"group-title="Quốc Tế",France 24 (Francais)
-rtp://@232.84.3.207:11164
-#EXTINF:-1 tvg-id=""tvg-logo="https://i.imgur.com/Y944An6.png"group-title="Quốc Tế",HSE
-rtp://@232.84.3.37:11830
-#EXTINF:-1 tvg-id=""tvg-logo="https://i.imgur.com/g9RMxW8.png"group-title="Quốc Tế",Hunan International
-rtp://@232.84.3.188:11050
-#EXTINF:-1 tvg-id=""tvg-logo="https://i.imgur.com/tkGvrSY.png"group-title="Quốc Tế",Jiangsu International
-rtp://@232.84.3.187:11044
 #EXTINF:-1 tvg-id="kbsworld"tvg-logo="https://i.imgur.com/vylHBC8.png"group-title="Quốc Tế",KBS World
 rtp://@232.84.2.136:9612
 #EXTINF:-1 tvg-id=""tvg-logo="https://i.imgur.com/RB4ymyh.png"group-title="Quốc Tế",NHK Premium
 rtp://@232.84.3.172:10494
 #EXTINF:-1 tvg-id=""tvg-logo="https://i.imgur.com/lquiFgx.png"group-title="Quốc Tế",OBS
 rtp://@232.84.3.208:11170
-#EXTINF:-1 tvg-id=""tvg-logo="https://i.imgur.com/n93KZnX.png"group-title="Quốc Tế",Phoenix Chinese Channel
-rtp://@232.84.3.191:11068
-#EXTINF:-1 tvg-id=""tvg-logo="https://i.imgur.com/CAcJfPZ.png"group-title="Quốc Tế",Phoenix Infonews Channel
-rtp://@232.84.3.190:11062
-#EXTINF:-1 tvg-id=""tvg-logo="https://i.imgur.com/MfWQxD2.png"group-title="Quốc Tế",POCCNR PTP
-rtp://@232.84.2.127:8544
-#EXTINF:-1 tvg-id=""tvg-logo="https://i.imgur.com/mWo1rcS.png"group-title="Quốc Tế",Rai 3
-rtp://@232.84.2.124:8358
-#EXTINF:-1 tvg-id=""tvg-logo="https://i.imgur.com/JRVJl0L.png"group-title="Quốc Tế",Russia Today
-rtp://@232.84.2.125:8538
-#EXTINF:-1 tvg-id=""tvg-logo="https://i.imgur.com/yhWvggM.png"group-title="Quốc Tế",Russia Today Deutsch
-rtp://@232.84.3.45:11782
-#EXTINF:-1 tvg-id=""tvg-logo="https://i.imgur.com/6bUPlxA.png"group-title="Quốc Tế",Shenzhen
-rtp://@232.84.3.186:11038
-#EXTINF:-1 tvg-id=""tvg-logo="https://i.imgur.com/dX2hQHJ.png"group-title="Quốc Tế",TDM Macau
-rtp://@232.84.3.192:11074
-#EXTINF:-1 tvg-id=""tvg-logo="https://i.imgur.com/YyYy7jy.png"group-title="Quốc Tế",TVE
-rtp://@232.84.3.205:11152
-#EXTINF:-1 tvg-id="tv5monde"tvg-logo="https://i.imgur.com/D8zXF7p.png"group-title="Quốc Tế",TV5 Monde Asie
-rtp://@232.84.1.45:8250
-#EXTINF:-1 tvg-id=""tvg-logo="https://i.imgur.com/APpNWp4.png"group-title="Quốc Tế",WDR
-rtp://@232.84.3.38:11824
-#EXTINF:-1 tvg-id=""tvg-logo="https://i.imgur.com/3jlwft1.png"group-title="Quốc Tế",Xing Kong
-rtp://@232.84.3.189:11056
 
 #EXTINF:-1 tvg-id="yenbai"tvg-logo="https://i.imgur.com/AELRXuX.png"group-title="Địa Phương",YTV HD - TH Yên Bái (HD)
 rtp://@232.84.3.253:11440
@@ -441,17 +380,6 @@ rtp://@232.84.2.176:10864
 rtp://@232.84.2.195:10954
 #EXTINF:-1 tvg-id=""tvg-logo="https://i.imgur.com/NWtbAS5.png"group-title="MyTV Service",Event 804
 rtp://@232.84.2.196:10960
-#EXTINF:-1 tvg-id=""tvg-logo="https://i.imgur.com/NWtbAS5.png"group-title="MyTV Service",Mosaic
-rtp://@232.84.3.173:9432
-#EXTINF:-1 tvg-id=""tvg-logo="https://i.imgur.com/MZIGm1R.png"group-title="MyTV Service",Meliã Hotels International
-rtp://@232.84.2.54:10534
-#EXTINF:-1 tvg-id=""tvg-logo="https://i.imgur.com/0uCFndD.png"group-title="MyTV Service",Vin Pearl
-rtp://@232.84.1.239:10302
-#EXTINF:-1 tvg-id=""tvg-logo="https://i.imgur.com/mceQLHA.png"group-title="MyTV Service",Laguna Lăng Cô
-rtp://@232.84.2.56:10546
-#EXTINF:-1 tvg-id=""tvg-logo="https://i.imgur.com/QzD6Gv0.png"group-title="MyTV Service",Marriott Bonvoy
-rtp://@232.84.1.159:10422
-#EXTINF:-1 tvg-id=""tvg-logo="https://i.imgur.com/NWtbAS5.png"group-title="MyTV Service",MyTV Promo
-rtp://@232.84.3.195:11092
+
 #EXTINF:-1 tvg-id=""tvg-logo="https://i.imgur.com/Y8JlcPP.png"group-title="Mua Sắm",BTV6
 rtp://@232.84.2.197:10966
