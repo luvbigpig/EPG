@@ -10,7 +10,7 @@ http://192.168.50.1:14571/rtp/232.84.3.249:11416
 http://192.168.50.1:14571/rtp/232.84.3.106:10600
 #EXTINF:-1 tvg-id="vtv5hd"tvg-logo="https://i.imgur.com/7qPKNFU.png"group-title="VTV",VTV5 (HD)
 http://192.168.50.1:14571/rtp/232.84.3.251:11428
-#EXTINF:-1 tvg-id="vtv6hd"tvg-logo="https://i.imgur.com/HCpqatZ.png"group-title="VTV",VTV Cần Thơ
+#EXTINF:-1 tvg-id="vtvcantho"tvg-logo="https://i.imgur.com/HCpqatZ.png"group-title="VTV",VTV Cần Thơ
 http://192.168.50.1:14571/rtp/232.84.3.252:11434
 #EXTINF:-1 tvg-id="vtv7hd"tvg-logo="https://i.imgur.com/AgamSNe.png"group-title="VTV",VTV7 (HD)
 http://192.168.50.1:14571/rtp/232.84.2.202:10996
@@ -27,45 +27,45 @@ http://192.168.50.1:14571/rtp/232.84.3.127:10816
 #EXTINF:-1 tvg-id="antvhd"tvg-logo="https://i.imgur.com/eGkFbAh.png"group-title="Kênh TH Thiết yếu",ANTV
 http://192.168.50.1:14571/rtp/232.84.1.212:9246
 
-#EXTINF:-1 tvg-id="vtvcab16hd"tvg-logo="https://i.imgur.com/WAxiIfP.png"group-title="VTVcab",ON Football (HD)
+#EXTINF:-1 tvg-id="onfootball"tvg-logo="https://i.imgur.com/WAxiIfP.png"group-title="VTVcab",ON Football (HD)
 http://192.168.50.1:14571/rtp/232.84.1.210:9234
-#EXTINF:-1 tvg-id="vtvcab3hd"tvg-logo="https://i.imgur.com/moYwxwf.png"group-title="VTVcab",ON Sports (HD)
+#EXTINF:-1 tvg-id="onsports"tvg-logo="https://i.imgur.com/moYwxwf.png"group-title="VTVcab",ON Sports (HD)
 http://192.168.50.1:14571/rtp/232.84.1.207:9216
-#EXTINF:-1 tvg-id="vtvcab6hd"tvg-logo="https://i.imgur.com/cFs8OVb.png"group-title="VTVcab",ON Sports+ (HD)
+#EXTINF:-1 tvg-id="onsportsplus"tvg-logo="https://i.imgur.com/cFs8OVb.png"group-title="VTVcab",ON Sports+ (HD)
 http://192.168.50.1:14571/rtp/232.84.3.75:11602
-#EXTINF:-1 tvg-id="vtvcab18hd"tvg-logo="https://i.imgur.com/wpRXpJg.png"group-title="VTVcab",ON Sports News (HD)
+#EXTINF:-1 tvg-id="onsportsnews"tvg-logo="https://i.imgur.com/wpRXpJg.png"group-title="VTVcab",ON Sports News (HD)
 http://192.168.50.1:14571/rtp/232.84.2.193:10942
-#EXTINF:-1 tvg-id="vtvcab23hd"tvg-logo="https://i.imgur.com/BGF2I58.png"group-title="VTVcab",ON Golf (HD)
+#EXTINF:-1 tvg-id="ongolf"tvg-logo="https://i.imgur.com/BGF2I58.png"group-title="VTVcab",ON Golf (HD)
 http://192.168.50.1:14571/rtp/232.84.3.244:11386
-#EXTINF:-1 tvg-id="vtvcab8hd"tvg-logo="https://i.imgur.com/YFmPo7l.png"group-title="VTVcab",ON BiBi
+#EXTINF:-1 tvg-id="onbibi"tvg-logo="https://i.imgur.com/YFmPo7l.png"group-title="VTVcab",ON BiBi
 http://192.168.50.1:14571/rtp/232.84.3.217:11224
-#EXTINF:-1 tvg-id="vtvcab10hd"tvg-logo="https://i.imgur.com/6f9ngwY.png"group-title="VTVcab",ON Cine
+#EXTINF:-1 tvg-id="oncine"tvg-logo="https://i.imgur.com/6f9ngwY.png"group-title="VTVcab",ON Cine
 http://192.168.50.1:14571/rtp/232.84.3.72:11620
-#EXTINF:-1 tvg-id="vtvcab5hd"tvg-logo="https://i.imgur.com/87JEXEQ.png"group-title="VTVcab",ON EChannel
+#EXTINF:-1 tvg-id="onechannel"tvg-logo="https://i.imgur.com/87JEXEQ.png"group-title="VTVcab",ON EChannel
 http://192.168.50.1:14571/rtp/232.84.3.76:11596
-#EXTINF:-1 tvg-id="vtvcab9hd"tvg-logo="https://i.imgur.com/jp57P0v.png"group-title="VTVcab",ON Info TV
+#EXTINF:-1 tvg-id="oninfotv"tvg-logo="https://i.imgur.com/jp57P0v.png"group-title="VTVcab",ON Info TV
 http://192.168.50.1:14571/rtp/232.84.3.73:11614
-#EXTINF:-1 tvg-id="vtvcab21hd"tvg-logo="https://i.imgur.com/Y2SzhHG.png"group-title="VTVcab",ON Kids
+#EXTINF:-1 tvg-id="onkids"tvg-logo="https://i.imgur.com/Y2SzhHG.png"group-title="VTVcab",ON Kids
 http://192.168.50.1:14571/rtp/232.84.3.41:11806
-#EXTINF:-1 tvg-id="vtvcab22hd"tvg-logo="https://i.imgur.com/2xT5HFx.png"group-title="VTVcab",ON Life
+#EXTINF:-1 tvg-id="onlife"tvg-logo="https://i.imgur.com/2xT5HFx.png"group-title="VTVcab",ON Life
 http://192.168.50.1:14571/rtp/232.84.3.40:11812
-#EXTINF:-1 tvg-id="vtvcab4hd"tvg-logo="https://i.imgur.com/765Y3jw.png"group-title="VTVcab",ON Movies
+#EXTINF:-1 tvg-id="onmovies"tvg-logo="https://i.imgur.com/765Y3jw.png"group-title="VTVcab",ON Movies
 http://192.168.50.1:14571/rtp/232.84.2.190:10924
-#EXTINF:-1 tvg-id="vtvcab15hd"tvg-logo="https://i.imgur.com/45BXPY3.png"group-title="VTVcab",ON Music
+#EXTINF:-1 tvg-id="onmusic"tvg-logo="https://i.imgur.com/45BXPY3.png"group-title="VTVcab",ON Music
 http://192.168.50.1:14571/rtp/232.84.3.70:11632
-#EXTINF:-1 tvg-id="vtvcab7hd"tvg-logo="https://i.imgur.com/nqwVkmM.png"group-title="VTVcab",ON O2TV
+#EXTINF:-1 tvg-id="ono2tv"tvg-logo="https://i.imgur.com/nqwVkmM.png"group-title="VTVcab",ON O2TV
 http://192.168.50.1:14571/rtp/232.84.3.74:11608
-#EXTINF:-1 tvg-id="vtvcab2hd"tvg-logo="https://i.imgur.com/MPNlpzb.png"group-title="VTVcab",ON Phim Việt
+#EXTINF:-1 tvg-id="onphimviet"tvg-logo="https://i.imgur.com/MPNlpzb.png"group-title="VTVcab",ON Phim Việt
 http://192.168.50.1:14571/rtp/232.84.3.77:11590
-#EXTINF:-1 tvg-id="ON Style TV"tvg-logo="https://i.imgur.com/6LQ0Z1O.png"group-title="VTVcab",ON Style TV (HD)
+#EXTINF:-1 tvg-id="onstyle"tvg-logo="https://i.imgur.com/6LQ0Z1O.png"group-title="VTVcab",ON Style TV (HD)
 http://192.168.50.1:14571/rtp/232.84.3.71:11626
-#EXTINF:-1 tvg-id="vtvcab17hd"tvg-logo="https://i.imgur.com/hHYzxmS.png"group-title="VTVcab",ON Trending TV (HD)
+#EXTINF:-1 tvg-id="ontrending"tvg-logo="https://i.imgur.com/hHYzxmS.png"group-title="VTVcab",ON Trending TV (HD)
 http://192.168.50.1:14571/rtp/232.84.3.69:11638
-#EXTINF:-1 tvg-id="vtvcab20hd"tvg-logo="https://i.imgur.com/R82M53x.png"group-title="VTVcab",ON VFamily (HD)
+#EXTINF:-1 tvg-id="onvfamily"tvg-logo="https://i.imgur.com/R82M53x.png"group-title="VTVcab",ON VFamily (HD)
 http://192.168.50.1:14571/rtp/232.84.3.68:11644
-#EXTINF:-1 tvg-id="vtvcab19hd"tvg-logo="https://i.imgur.com/n7QICK7.png"group-title="VTVcab",ON Vie Dramas (HD)
+#EXTINF:-1 tvg-id="onviedramas"tvg-logo="https://i.imgur.com/n7QICK7.png"group-title="VTVcab",ON Vie Dramas (HD)
 http://192.168.50.1:14571/rtp/232.84.3.218:11230
-#EXTINF:-1 tvg-id="vtvcab1hd"tvg-logo="https://i.imgur.com/7GSKm46.png"group-title="VTVcab",ON Vie Giải Trí (HD)
+#EXTINF:-1 tvg-id="onviegiaitri"tvg-logo="https://i.imgur.com/7GSKm46.png"group-title="VTVcab",ON Vie Giải Trí (HD)
 http://192.168.50.1:14571/rtp/232.84.3.78:11584
 
 #EXTINF:-1 tvg-id="kcinehd"tvg-logo="https://i.imgur.com/As4bwUs.png"group-title="K+",K+ Cine (HD)
