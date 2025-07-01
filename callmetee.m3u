@@ -9,7 +9,7 @@ http://callmetee.asuscomm.com:14571/rtp/232.84.1.118:10260
 #EXTINF:-1 tvg-id="vtv4hd"tvg-logo="https://i.imgur.com/9zVTtsA.png"group-title="VTV",VTV4 (HD)
 http://callmetee.asuscomm.com:14571/rtp/232.84.3.106:10600
 #EXTINF:-1 tvg-id="vtv5hd"tvg-logo="https://i.imgur.com/7qPKNFU.png"group-title="VTV",VTV5 (HD)
-http://callmetee.asuscomm.com:14571/rtp/232.84.3.251:11428
+http://callmetee.asuscomm.com:14571/rtp/232.84.2.33:10606
 #EXTINF:-1 tvg-id="vtvcantho"tvg-logo="https://i.imgur.com/HCpqatZ.png"group-title="VTV",VTV Cần Thơ
 http://callmetee.asuscomm.com:14571/rtp/232.84.1.119:10266
 #EXTINF:-1 tvg-id="vtv7hd"tvg-logo="https://i.imgur.com/AgamSNe.png"group-title="VTV",VTV7 (HD)
@@ -153,11 +153,6 @@ http://callmetee.asuscomm.com:14571/rtp/232.84.2.134:9600
 #EXTINF:-1 tvg-id="htvcplushd"tvg-logo="https://i.imgur.com/SQ9cLJj.png"group-title="HTV/HTVC",HTVC Plus (HD)
 http://callmetee.asuscomm.com:14571/rtp/232.84.3.245:11392
 
-#EXTINF:-1 tvg-id="qpvnhd"tvg-logo="https://i.imgur.com/UIGZw0y.png"group-title="Kênh TH Thiết yếu",QPVN (HD)
-http://callmetee.asuscomm.com:14571/rtp/232.84.3.127:10816
-#EXTINF:-1 tvg-id="antvhd"tvg-logo="https://i.imgur.com/eGkFbAh.png"group-title="Kênh TH Thiết yếu",ANTV
-http://callmetee.asuscomm.com:14571/rtp/232.84.1.212:9246
-
 #EXTINF:-1 tvg-id="afnhd"tvg-logo="https://i.imgur.com/KL9oaqc.png"group-title="Quốc Tế",Asian Food Network (HD)
 http://callmetee.asuscomm.com:14571/rtp/232.84.2.129:9570
 #EXTINF:-1 tvg-id="bbcearth"tvg-logo="https://i.imgur.com/qUiM77S.png"group-title="Quốc Tế",BBC Earth (HD)
@@ -226,6 +221,11 @@ http://callmetee.asuscomm.com:14571/rtp/232.84.2.136:9612
 http://callmetee.asuscomm.com:14571/rtp/232.84.3.172:10494
 #EXTINF:-1 tvg-id=""tvg-logo="https://i.imgur.com/lquiFgx.png"group-title="Quốc Tế",OBS
 http://callmetee.asuscomm.com:14571/rtp/232.84.3.208:11170
+
+#EXTINF:-1 tvg-id="qpvnhd"tvg-logo="https://i.imgur.com/UIGZw0y.png"group-title="Kênh TH Thiết yếu",QPVN (HD)
+http://callmetee.asuscomm.com:14571/rtp/232.84.3.127:10816
+#EXTINF:-1 tvg-id="antvhd"tvg-logo="https://i.imgur.com/eGkFbAh.png"group-title="Kênh TH Thiết yếu",ANTV
+http://callmetee.asuscomm.com:14571/rtp/232.84.1.212:9246
 
 #EXTINF:-1 tvg-id="yenbai"tvg-logo="https://i.imgur.com/AELRXuX.png"group-title="Địa Phương",YTV HD - TH Yên Bái (HD)
 http://callmetee.asuscomm.com:14571/rtp/232.84.3.253:11440
