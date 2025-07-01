@@ -5,13 +5,13 @@ http://192.168.50.1:14571/rtp/232.84.1.117:10254
 #EXTINF:-1 tvg-id="vtv2hd"tvg-logo="https://i.imgur.com/BVwi3K3.png"group-title="VTV",VTV2 (HD)
 http://192.168.50.1:14571/rtp/232.84.2.31:10594
 #EXTINF:-1 tvg-id="vtv3hd"tvg-logo="https://i.imgur.com/7rLCvgS.png"group-title="VTV",VTV3 (HD)
-http://192.168.50.1:14571/rtp/232.84.3.249:11416
+http://192.168.50.1:14571/rtp/232.84.1.118:10260
 #EXTINF:-1 tvg-id="vtv4hd"tvg-logo="https://i.imgur.com/9zVTtsA.png"group-title="VTV",VTV4 (HD)
 http://192.168.50.1:14571/rtp/232.84.3.106:10600
 #EXTINF:-1 tvg-id="vtv5hd"tvg-logo="https://i.imgur.com/7qPKNFU.png"group-title="VTV",VTV5 (HD)
-http://192.168.50.1:14571/rtp/232.84.3.251:11428
+http://192.168.50.1:14571/rtp/232.84.2.33:10606
 #EXTINF:-1 tvg-id="vtvcantho"tvg-logo="https://i.imgur.com/HCpqatZ.png"group-title="VTV",VTV Cần Thơ
-http://192.168.50.1:14571/rtp/232.84.3.252:11434
+http://192.168.50.1:14571/rtp/232.84.1.119:10266
 #EXTINF:-1 tvg-id="vtv7hd"tvg-logo="https://i.imgur.com/AgamSNe.png"group-title="VTV",VTV7 (HD)
 http://192.168.50.1:14571/rtp/232.84.2.202:10996
 #EXTINF:-1 tvg-id="vtv8hd"tvg-logo="https://i.imgur.com/lpcltL9.png"group-title="VTV",VTV8 (HD)
@@ -22,10 +22,6 @@ http://192.168.50.1:14571/rtp/232.84.2.35:10618
 http://192.168.50.1:14571/rtp/232.84.3.86:11542
 #EXTINF:-1 tvg-id="vtv5hdtn"tvg-logo="https://i.imgur.com/R8c2swd.png"group-title="VTV",VTV5 Tây Nguyên
 http://192.168.50.1:14571/rtp/232.84.3.66:11656
-#EXTINF:-1 tvg-id="qpvnhd"tvg-logo="https://i.imgur.com/UIGZw0y.png"group-title="Kênh TH Thiết yếu",QPVN (HD)
-http://192.168.50.1:14571/rtp/232.84.3.127:10816
-#EXTINF:-1 tvg-id="antvhd"tvg-logo="https://i.imgur.com/eGkFbAh.png"group-title="Kênh TH Thiết yếu",ANTV
-http://192.168.50.1:14571/rtp/232.84.1.212:9246
 
 #EXTINF:-1 tvg-id="onfootball"tvg-logo="https://i.imgur.com/WAxiIfP.png"group-title="VTVcab",ON Football (HD)
 http://192.168.50.1:14571/rtp/232.84.1.210:9234
@@ -156,6 +152,11 @@ http://192.168.50.1:14571/rtp/232.84.3.51:11746
 http://192.168.50.1:14571/rtp/232.84.2.134:9600
 #EXTINF:-1 tvg-id="htvcplushd"tvg-logo="https://i.imgur.com/SQ9cLJj.png"group-title="HTV/HTVC",HTVC Plus (HD)
 http://192.168.50.1:14571/rtp/232.84.3.245:11392
+
+#EXTINF:-1 tvg-id="qpvnhd"tvg-logo="https://i.imgur.com/UIGZw0y.png"group-title="Kênh TH Thiết yếu",QPVN (HD)
+http://192.168.50.1:14571/rtp/232.84.3.127:10816
+#EXTINF:-1 tvg-id="antvhd"tvg-logo="https://i.imgur.com/eGkFbAh.png"group-title="Kênh TH Thiết yếu",ANTV
+http://192.168.50.1:14571/rtp/232.84.1.212:9246
 
 #EXTINF:-1 tvg-id="afnhd"tvg-logo="https://i.imgur.com/KL9oaqc.png"group-title="Quốc Tế",Asian Food Network (HD)
 http://192.168.50.1:14571/rtp/232.84.2.129:9570
