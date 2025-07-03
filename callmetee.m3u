@@ -65,6 +65,15 @@ http://callmetee.asuscomm.com:14571/rtp/232.84.3.218:11230
 #EXTINF:-1 tvg-id="onviegiaitri"tvg-logo="https://i.imgur.com/7GSKm46.png"group-title="VTVcab",ON Vie Giải Trí (HD)
 http://callmetee.asuscomm.com:14571/rtp/232.84.3.78:11584
 
+EXTINF:0 tvg-id="spotv1" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/hXYkO7B.png",SPOTV (HD 9Mbps)
+http://callmetee.asuscomm.com:14571/rtp/232.84.2.141:10666
+#EXTINF:0 tvg-id="spotv1" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/hXYkO7B.png",SPOTV (HD 9Mbps)
+http://callmetee.asuscomm.com:14571/rtp/232.84.3.49:11758
+#EXTINF:0 tvg-id="spotv2" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/EBKmDBi.png",SPOTV2 (HD 9Mbps)
+http://callmetee.asuscomm.com:14571/rtp/232.84.2.142:10672
+EXTINF:0 tvg-id="spotv2" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/EBKmDBi.png",SPOTV2 (HD 9Mbps)
+http://callmetee.asuscomm.com:14571/rtp/232.84.3.48:11764
+
 #EXTINF:-1 tvg-id="spotv1"tvg-logo="https://i.imgur.com/hXYkO7B.png"group-title="SPOTV",SPOTV1 (HD)
 http://callmetee.asuscomm.com:14571/rtp/232.84.3.49:11758
 #EXTINF:-1 tvg-id="spotv2"tvg-logo="https://i.imgur.com/EBKmDBi.png"group-title="SPOTV",SPOTV2 (HD)
