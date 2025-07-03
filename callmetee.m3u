@@ -65,6 +65,11 @@ http://callmetee.asuscomm.com:14571/rtp/232.84.3.218:11230
 #EXTINF:-1 tvg-id="onviegiaitri"tvg-logo="https://i.imgur.com/7GSKm46.png"group-title="VTVcab",ON Vie Giải Trí (HD)
 http://callmetee.asuscomm.com:14571/rtp/232.84.3.78:11584
 
+#EXTINF:-1 tvg-id="spotv1"tvg-logo="https://i.imgur.com/hXYkO7B.png"group-title="SPOTV",SPOTV1 (HD)
+http://callmetee.asuscomm.com:14571/rtp/232.84.3.49:11758
+#EXTINF:-1 tvg-id="spotv2"tvg-logo="https://i.imgur.com/EBKmDBi.png"group-title="SPOTV",SPOTV2 (HD)
+http://callmetee.asuscomm.com:14571/rtp/232.84.3.48:11764
+
 #EXTINF:-1 tvg-id="kcinehd"tvg-logo="https://i.imgur.com/As4bwUs.png"group-title="K+",K+ Cine (HD)
 http://callmetee.asuscomm.com:14571/rtp/232.84.1.38:8202
 #EXTINF:-1 tvg-id="kaction"tvg-logo="https://i.imgur.com/QPkuBRi.png"group-title="K+",K+ Action (HD)
@@ -154,6 +159,7 @@ http://callmetee.asuscomm.com:14571/rtp/232.84.2.134:9600
 #EXTINF:-1 tvg-id="htvcplushd"tvg-logo="https://i.imgur.com/SQ9cLJj.png"group-title="HTV/HTVC",HTVC Plus (HD)
 http://callmetee.asuscomm.com:14571/rtp/232.84.3.245:11392
 
+
 #EXTINF:-1 tvg-id="afnhd"tvg-logo="https://i.imgur.com/KL9oaqc.png"group-title="Quốc Tế",Asian Food Network (HD)
 http://callmetee.asuscomm.com:14571/rtp/232.84.2.129:9570
 #EXTINF:-1 tvg-id="bbcearth"tvg-logo="https://i.imgur.com/qUiM77S.png"group-title="Quốc Tế",BBC Earth (HD)
@@ -198,10 +204,6 @@ http://callmetee.asuscomm.com:14571/rtp/232.84.1.13:8052
 http://callmetee.asuscomm.com:14571/rtp/232.84.1.72:8406
 #EXTINF:-1 tvg-id="outdoorhd"tvg-logo="https://i.imgur.com/x4zXtYX.png"group-title="Quốc Tế",Outdoor (HD)
 http://callmetee.asuscomm.com:14571/rtp/232.84.1.107:10218
-#EXTINF:-1 tvg-id="spotv1"tvg-logo="https://i.imgur.com/hXYkO7B.png"group-title="Quốc Tế",SPOTV1 (HD)
-http://callmetee.asuscomm.com:14571/rtp/232.84.3.111:10666
-#EXTINF:-1 tvg-id="spotv2"tvg-logo="https://i.imgur.com/EBKmDBi.png"group-title="Quốc Tế",SPOTV2 (HD)
-http://callmetee.asuscomm.com:14571/rtp/232.84.3.129:10672
 #EXTINF:-1 tvg-id="tlchd"tvg-logo="https://i.imgur.com/ZStxdQI.png"group-title="Quốc Tế",TLC (HD)
 http://callmetee.asuscomm.com:14571/rtp/232.84.3.156:10708
 #EXTINF:-1 tvg-id="warnertvhd"tvg-logo="https://i.imgur.com/B9AVT2i.png"group-title="Quốc Tế",WBTV (HD)
