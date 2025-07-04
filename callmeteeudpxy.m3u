@@ -71,7 +71,7 @@ http://192.168.50.1:14571/rtp/232.84.2.141:10666
 http://192.168.50.1:14571/rtp/232.84.3.49:11758
 #EXTINF:-1 tvg-id="spotv2"tvg-logo="https://i.imgur.com/EBKmDBi.png"group-title="SPOTV",SPOTV2 (HD)
 http://192.168.50.1:14571/rtp/232.84.2.142:10672
-EXTINF:-1 tvg-id="spotv2"tvg-logo="https://i.imgur.com/EBKmDBi.png"group-title="SPOTV",SPOTV2 (HD)
+#EXTINF:-1 tvg-id="spotv2"tvg-logo="https://i.imgur.com/EBKmDBi.png"group-title="SPOTV",SPOTV2 (HD)
 http://192.168.50.1:14571/rtp/232.84.3.48:11764
 
 #EXTINF:-1 tvg-id="kcinehd"tvg-logo="https://i.imgur.com/As4bwUs.png"group-title="K+",K+ Cine (HD)
