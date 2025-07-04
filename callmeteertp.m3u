@@ -69,9 +69,9 @@ EXTINF:-1 tvg-id="spotv1"tvg-logo="https://i.imgur.com/hXYkO7B.png"group-title="
 rtp://@232.84.2.141:10666
 #EXTINF:-1 tvg-id="spotv1"tvg-logo="https://i.imgur.com/hXYkO7B.png"group-title="SPOTV",SPOTV1 (HD)
 rtp://@232.84.3.49:11758
-#EXTINF:-1 tvg-id="spotv2"tvg-logo="https://i.imgur.com/EBKmDBi.png"group-title="SPOTV",SPOTV2 (HD)
-rtp://@232.84.2.142:10672
 EXTINF:-1 tvg-id="spotv2"tvg-logo="https://i.imgur.com/EBKmDBi.png"group-title="SPOTV",SPOTV2 (HD)
+rtp://@232.84.2.142:10672
+#EXTINF:-1 tvg-id="spotv2"tvg-logo="https://i.imgur.com/EBKmDBi.png"group-title="SPOTV",SPOTV2 (HD)
 rtp://@232.84.3.48:11764
 
 #EXTINF:-1 tvg-id="kcinehd"tvg-logo="https://i.imgur.com/As4bwUs.png"group-title="K+",K+ Cine (HD)
