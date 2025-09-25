@@ -389,35 +389,3 @@ rtp://@232.84.2.196:10960
 
 #EXTINF:-1 tvg-id=""tvg-logo="https://i.imgur.com/Y8JlcPP.png"group-title="Mua Sắm",BTV6
 rtp://@232.84.2.197:10966
-
-EXTINF:-1 group-title="Radio" tvg-logo="https://cdn.hqth.me/logo/thumbs/244.png", VOV Giao thông Hà Nội
-https://str.vov.gov.vn/vovlive/vovGTHN.sdp_aac/chunklist_w601606653.m3u8
-EXTINF:-1 group-title="Radio" tvg-logo="https://cdn.hqth.me/logo/thumbs/244.png", VOV Giao thông Hồ Chí Minh
-https://str.vov.gov.vn/vovlive/vovGTHCM.sdp_aac/chunklist_w1213978008.m3u8
-EXTINF:-1 group-title="Radio" tvg-logo="https://cdn.hqth.me/logo/thumbs/245.png", VOVGT Mekong
-https://str.vov.gov.vn/vovlive/vovgtMeKong.sdp_aac/chunklist_w1338501805.m3u8
-EXTINF:-1 group-title="Radio" tvg-logo="https://cdn.hqth.me/logo/thumbs/246.png", VOV Sức khỏe 89
-https://stream.vovmedia.vn/fm89
-EXTINF:-1 group-title="Radio" tvg-logo="https://cdn.hqth.me/logo/thumbs/247.png", VOH FM 99.9Mhz
-https://strm.voh.com.vn/radio/channel3/playlist.m3u8
-EXTINF:-1 group-title="Radio" tvg-logo="https://cdn.hqth.me/logo/thumbs/248.png", VOH FM 95.6Mhz
-https://strm.voh.com.vn/radio/channel1/playlist.m3u8
-EXTINF:-1 group-title="Radio" tvg-logo="https://cdn.hqth.me/logo/thumbs/249.png", VOH FM 87.7Mhz
-https://strm.voh.com.vn/radio/channel5/playlist.m3u8
-EXTINF:-1 group-title="Radio" tvg-logo="https://cdn.hqth.me/logo/thumbs/250.png", VOH AM 610Khz
-https://strm.voh.com.vn/radio/channel2/playlist.m3u8
-
-EXTINF:-1 group-title="Radio" tvg-logo="https://proxy.zeno.fm/content/stations/agxzfnplbm8tc3RhdHNyMgsSCkF1dGhDbGllbnQYgICQ2ciKiAoMCxIOU3RhdGlvblByb2ZpbGUYgICQucnHqwsMogEEemVubw/image/", M Radio Việt Nam
-https://stream.zeno.fm/4q7y9hvkp2zuv
-EXTINF:-1 group-title="Radio" tvg-logo="https://proxy.zeno.fm/content/stations/agxzfnplbm8tc3RhdHNyMgsSCkF1dGhDbGllbnQYgICQ2ciKiAoMCxIOU3RhdGlvblByb2ZpbGUYgIDQoL-YpAoMogEEemVubw/image/", Cải Lương Việt Nam
-https://stream.zeno.fm/0trm6wrnga0uv
-EXTINF:-1 group-title="Radio" tvg-logo="https://proxy.zeno.fm/content/stations/agxzfnplbm8tc3RhdHNyMgsSCkF1dGhDbGllbnQYgICQ2ciKiAoMCxIOU3RhdGlvblByb2ZpbGUYgICQ7brTsQgMogEEemVubw/image/", Radio Nhạc Vàng Xưa
-https://stream.zeno.fm/x2z45v7d84zuv
-EXTINF:-1 group-title="Radio" tvg-logo="https://proxy.zeno.fm/content/stations/agxzfnplbm8tc3RhdHNyMgsSCkF1dGhDbGllbnQYgICQ2ciKiAoMCxIOU3RhdGlvblByb2ZpbGUYgIDQidjS_wkMogEEemVubw/image/", Radio DJ
-https://stream.zeno.fm/ehbutdfccm0uv
-EXTINF:-1 group-title="Radio" tvg-logo="https://proxy.zeno.fm/content/stations/agxzfnplbm8tc3RhdHNyMgsSCkF1dGhDbGllbnQYgICQ2ciKiAoMCxIOU3RhdGlvblByb2ZpbGUYgIDQiavcsgsMogEEemVubw/image/", Radio Phật Giáo
-https://stream.zeno.fm/8456uy0bcm0uv
-EXTINF:-1 group-title="Radio" tvg-logo="https://proxy.zeno.fm/content/stations/agxzfnplbm8tc3RhdHNyMgsSCkF1dGhDbGllbnQYgICQ2ciKiAoMCxIOU3RhdGlvblByb2ZpbGUYgICw0ILTsQoMogEEemVubw/image/", Radio Nhạc Dân Ca
-https://stream.zeno.fm/a2dbs2tq1p8uv
-EXTINF:-1 group-title="Radio" tvg-logo="https://proxy.zeno.fm/content/stations/agxzfnplbm8tc3RhdHNyMgsSCkF1dGhDbGllbnQYgIDg2_XVmgsMCxIOU3RhdGlvblByb2ZpbGUYgIDQi9zzhAgMogEEemVubw/image/", Radio Nhạc Xuân
-https://stream.zeno.fm/hvtxgd85rm0uv
