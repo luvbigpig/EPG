@@ -74,64 +74,64 @@ rtp://@232.84.2.142:10672
 #EXTINF:-1 tvg-id="spotv2"tvg-logo="https://i.imgur.com/EBKmDBi.png"group-title="SPOTV",SPOTV2 (HD)
 rtp://@232.84.3.48:11764
 
-#EXTINF:-1 tvg-id="kcinehd"tvg-logo="https://i.imgur.com/As4bwUs.png"group-title="K+",K+ Cine (HD)
+EXTINF:-1 tvg-id="kcinehd"tvg-logo="https://i.imgur.com/As4bwUs.png"group-title="K+",K+ Cine (HD)
 rtp://@232.84.1.38:8202
-#EXTINF:-1 tvg-id="kaction"tvg-logo="https://i.imgur.com/QPkuBRi.png"group-title="K+",K+ Action (HD)
+EXTINF:-1 tvg-id="kaction"tvg-logo="https://i.imgur.com/QPkuBRi.png"group-title="K+",K+ Action (HD)
 rtp://@232.84.1.33:8172
-#EXTINF:-1 tvg-id="ksport1hd"tvg-logo="https://i.imgur.com/6yiAtRg.png"group-title="K+",K+ Sport 1 (HD)
+EXTINF:-1 tvg-id="ksport1hd"tvg-logo="https://i.imgur.com/6yiAtRg.png"group-title="K+",K+ Sport 1 (HD)
 rtp://@232.84.1.37:8196
-#EXTINF:-1 tvg-id="ksport2hd"tvg-logo="https://i.imgur.com/EFeyqYX.png"group-title="K+",K+ Sport 2 (HD)
+EXTINF:-1 tvg-id="ksport2hd"tvg-logo="https://i.imgur.com/EFeyqYX.png"group-title="K+",K+ Sport 2 (HD)
 rtp://@232.84.1.34:8178
-#EXTINF:-1 tvg-id="kkidshd"tvg-logo="https://i.imgur.com/erWqYxh.png"group-title="K+",K+ Kids (HD)
+EXTINF:-1 tvg-id="kkidshd"tvg-logo="https://i.imgur.com/erWqYxh.png"group-title="K+",K+ Kids (HD)
 rtp://@232.84.3.42:11800
-#EXTINF:-1 tvg-id="kcinehd"tvg-logo="https://i.imgur.com/As4bwUs.png"group-title="K+",K+ Cine
+EXTINF:-1 tvg-id="kcinehd"tvg-logo="https://i.imgur.com/As4bwUs.png"group-title="K+",K+ Cine
 rtp://@232.84.1.122:10314
-#EXTINF:-1 tvg-id="kaction"tvg-logo="https://i.imgur.com/QPkuBRi.png"group-title="K+",K+ Action
+EXTINF:-1 tvg-id="kaction"tvg-logo="https://i.imgur.com/QPkuBRi.png"group-title="K+",K+ Action
 rtp://@232.84.1.123:10320
-#EXTINF:-1 tvg-id="ksport1hd"tvg-logo="https://i.imgur.com/6yiAtRg.png"group-title="K+",K+ Sport 1
+EXTINF:-1 tvg-id="ksport1hd"tvg-logo="https://i.imgur.com/6yiAtRg.png"group-title="K+",K+ Sport 1
 rtp://@232.84.1.125:10326
-#EXTINF:-1 tvg-id="ksport2hd"tvg-logo="https://i.imgur.com/EFeyqYX.png"group-title="K+",K+ Sport 2
+EXTINF:-1 tvg-id="ksport2hd"tvg-logo="https://i.imgur.com/EFeyqYX.png"group-title="K+",K+ Sport 2
 rtp://@232.84.1.176:10374
 
-#EXTINF:-1 tvg-id="sctv1hd"tvg-logo="https://i.imgur.com/imhFxSG.png"group-title="SCTV",SCTV1 (HD)
+EXTINF:-1 tvg-id="sctv1hd"tvg-logo="https://i.imgur.com/imhFxSG.png"group-title="SCTV",SCTV1 (HD)
 rtp://@232.84.3.34:11848
-#EXTINF:-1 tvg-id="sctv2hd"tvg-logo="https://i.imgur.com/UpBZOaH.png"group-title="SCTV",SCTV2 (HD)
+EXTINF:-1 tvg-id="sctv2hd"tvg-logo="https://i.imgur.com/UpBZOaH.png"group-title="SCTV",SCTV2 (HD)
 rtp://@232.84.3.33:11854
-#EXTINF:-1 tvg-id="sctv3hd"tvg-logo="https://i.imgur.com/wZrGAtH.png"group-title="SCTV",SCTV3 (HD)
+EXTINF:-1 tvg-id="sctv3hd"tvg-logo="https://i.imgur.com/wZrGAtH.png"group-title="SCTV",SCTV3 (HD)
 rtp://@232.84.3.32:11860
-#EXTINF:-1 tvg-id="sctv4hd"tvg-logo="https://i.imgur.com/ntSnAMJ.png"group-title="SCTV",SCTV4 (HD)
+EXTINF:-1 tvg-id="sctv4hd"tvg-logo="https://i.imgur.com/ntSnAMJ.png"group-title="SCTV",SCTV4 (HD)
 rtp://@232.84.3.31:11866
-#EXTINF:-1 tvg-id="sctv6hd"tvg-logo="https://i.imgur.com/pSIvTkZ.png"group-title="SCTV",SCTV6 (HD)
+EXTINF:-1 tvg-id="sctv6hd"tvg-logo="https://i.imgur.com/pSIvTkZ.png"group-title="SCTV",SCTV6 (HD)
 rtp://@232.84.3.30:11872
-#EXTINF:-1 tvg-id="sctv7hd"tvg-logo="https://i.imgur.com/EdjXUUb.png"group-title="SCTV",SCTV7 (HD)
+EXTINF:-1 tvg-id="sctv7hd"tvg-logo="https://i.imgur.com/EdjXUUb.png"group-title="SCTV",SCTV7 (HD)
 rtp://@232.84.3.29:11878
-#EXTINF:-1 tvg-id="sctv8hd"tvg-logo="https://i.imgur.com/NULoCoA.png"group-title="SCTV",SCTV8 (HD)
+EXTINF:-1 tvg-id="sctv8hd"tvg-logo="https://i.imgur.com/NULoCoA.png"group-title="SCTV",SCTV8 (HD)
 rtp://@232.84.3.28:11884
-#EXTINF:-1 tvg-id="sctv9hd"tvg-logo="https://i.imgur.com/6dvyvea.png"group-title="SCTV",SCTV9 (HD)
+EXTINF:-1 tvg-id="sctv9hd"tvg-logo="https://i.imgur.com/6dvyvea.png"group-title="SCTV",SCTV9 (HD)
 rtp://@232.84.3.27:11890
-#EXTINF:-1 tvg-id="sctv11hd"tvg-logo="https://i.imgur.com/AP2o4bW.png"group-title="SCTV",SCTV11 (HD)
+EXTINF:-1 tvg-id="sctv11hd"tvg-logo="https://i.imgur.com/AP2o4bW.png"group-title="SCTV",SCTV11 (HD)
 rtp://@232.84.3.26:11896
-#EXTINF:-1 tvg-id="sctv12hd"tvg-logo="https://i.imgur.com/5nrSZd8.png"group-title="SCTV",SCTV12 (HD)
+EXTINF:-1 tvg-id="sctv12hd"tvg-logo="https://i.imgur.com/5nrSZd8.png"group-title="SCTV",SCTV12 (HD)
 rtp://@232.84.3.25:11902
-#EXTINF:-1 tvg-id="sctv14hd"tvg-logo="https://i.imgur.com/1yNMyEh.png"group-title="SCTV",SCTV14 (HD)
+EXTINF:-1 tvg-id="sctv14hd"tvg-logo="https://i.imgur.com/1yNMyEh.png"group-title="SCTV",SCTV14 (HD)
 rtp://@232.84.3.23:11914
-#EXTINF:-1 tvg-id="sctv15hd"tvg-logo="https://i.imgur.com/EPwjrlB.png"group-title="SCTV",SCTV15 (HD)
+EXTINF:-1 tvg-id="sctv15hd"tvg-logo="https://i.imgur.com/EPwjrlB.png"group-title="SCTV",SCTV15 (HD)
 rtp://@232.84.3.22:11920
-#EXTINF:-1 tvg-id="sctv16hd"tvg-logo="https://i.imgur.com/b4ZROQG.png"group-title="SCTV",SCTV16 (HD)
+EXTINF:-1 tvg-id="sctv16hd"tvg-logo="https://i.imgur.com/b4ZROQG.png"group-title="SCTV",SCTV16 (HD)
 rtp://@232.84.3.21:11926
-#EXTINF:-1 tvg-id="sctv17hd"tvg-logo="https://i.imgur.com/Ghjy4HY.png"group-title="SCTV",SCTV17 (HD)
+EXTINF:-1 tvg-id="sctv17hd"tvg-logo="https://i.imgur.com/Ghjy4HY.png"group-title="SCTV",SCTV17 (HD)
 rtp://@232.84.3.20:11932
-#EXTINF:-1 tvg-id="sctv18hd"tvg-logo="https://i.imgur.com/k2Eg4T4.png"group-title="SCTV",SCTV18 (HD)
+EXTINF:-1 tvg-id="sctv18hd"tvg-logo="https://i.imgur.com/k2Eg4T4.png"group-title="SCTV",SCTV18 (HD)
 rtp://@232.84.3.19:11938
-#EXTINF:-1 tvg-id="sctv19hd"tvg-logo="https://i.imgur.com/s4vfvNb.png"group-title="SCTV",SCTV19 (HD)
+EXTINF:-1 tvg-id="sctv19hd"tvg-logo="https://i.imgur.com/s4vfvNb.png"group-title="SCTV",SCTV19 (HD)
 rtp://@232.84.3.18:11944
-#EXTINF:-1 tvg-id="sctv20hd"tvg-logo="https://i.imgur.com/zwfqboB.png"group-title="SCTV",SCTV20 (HD)
+EXTINF:-1 tvg-id="sctv20hd"tvg-logo="https://i.imgur.com/zwfqboB.png"group-title="SCTV",SCTV20 (HD)
 rtp://@232.84.3.17:11950
-#EXTINF:-1 tvg-id="sctv21hd"tvg-logo="https://i.imgur.com/aHKybQW.png"group-title="SCTV",SCTV21 (HD)
+EXTINF:-1 tvg-id="sctv21hd"tvg-logo="https://i.imgur.com/aHKybQW.png"group-title="SCTV",SCTV21 (HD)
 rtp://@232.84.3.16:11956
-#EXTINF:-1 tvg-id="sctv22hd"tvg-logo="https://i.imgur.com/O0HdUpB.png"group-title="SCTV",SCTV22 (HD)
+EXTINF:-1 tvg-id="sctv22hd"tvg-logo="https://i.imgur.com/O0HdUpB.png"group-title="SCTV",SCTV22 (HD)
 rtp://@232.84.3.15:11962
-#EXTINF:-1 tvg-id="sctvhdpth"tvg-logo="https://i.imgur.com/VzZYa4n.png"group-title="SCTV",SCTV Phim Tổng Hợp (HD)
+EXTINF:-1 tvg-id="sctvhdpth"tvg-logo="https://i.imgur.com/VzZYa4n.png"group-title="SCTV",SCTV Phim Tổng Hợp (HD)
 rtp://@232.84.3.14:11968
 
 #EXTINF:-1 tvg-id="htv1"tvg-logo="https://i.imgur.com/oLm4dbV.png"group-title="HTV/HTVC",HTV1 (HD)
@@ -375,8 +375,11 @@ rtp://@232.84.2.118:8838
 rtp://@232.84.3.127:10816
 #EXTINF:-1 tvg-id="antvhd"tvg-logo="https://i.imgur.com/eGkFbAh.png"group-title="Kênh TH Thiết yếu",ANTV
 rtp://@232.84.1.212:9246
+#EXTINF:-1 tvg-id="vntdhd"tvg-logo="https://logos.fandom.com/vi/wiki/Vietnam_Today_(VTV)?file=Vietnam_Today_07-2025_v2.png"group-title="Kênh TH Thiết yếu",Vietnam Today (HD)
+rtp://@232.84.1.234:10290
 
-#EXTINF:-1 tvg-id=""tvg-logo="https://i.imgur.com/NWtbAS5.png"group-title="MyTV Service",Feed Quốc Hội
+
+EXTINF:-1 tvg-id=""tvg-logo="https://i.imgur.com/NWtbAS5.png"group-title="MyTV Service",Feed Quốc Hội
 rtp://@232.84.3.1:10278
 #EXTINF:-1 tvg-id=""tvg-logo="https://i.imgur.com/NWtbAS5.png"group-title="MyTV Service",Event 801
 rtp://@232.84.2.175:10858
