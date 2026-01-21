@@ -376,7 +376,7 @@ rtp://@232.84.3.127:10816
 #EXTINF:-1 tvg-id="antvhd"tvg-logo="https://i.imgur.com/eGkFbAh.png"group-title="Kênh TH Thiết yếu",ANTV
 rtp://@232.84.1.212:9246
 #EXTINF:-1 tvg-id="vntdhd"tvg-logo="https://logos.fandom.com/vi/wiki/Vietnam_Today_(VTV)?file=Vietnam_Today_07-2025_v2.png"group-title="Kênh TH Thiết yếu",Vietnam Today (HD)
-rtp://@232.84.1.234:10290
+rtp://@232.84.2.181:10290
 
 
 EXTINF:-1 tvg-id=""tvg-logo="https://i.imgur.com/NWtbAS5.png"group-title="MyTV Service",Feed Quốc Hội
