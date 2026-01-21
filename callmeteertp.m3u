@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="http://lichphatsong.xyz/schedule/epg.xml"
+#EXTM3U url-tvg="https://vnepg.site/epg.xml"
 #EXTM3U url-tvg="http://trada.info/epg.xml"
 
 #EXTINF:-1 tvg-id="vtv1hd"tvg-logo="https://i.imgur.com/nfkmvAY.png"group-title="VTV",VTV1 (HD)
@@ -13,6 +13,8 @@ rtp://@232.84.3.106:10600
 rtp://@232.84.2.33:10606
 #EXTINF:-1 tvg-id="vtvcantho"tvg-logo="https://i.imgur.com/HCpqatZ.png"group-title="VTV",VTV Cần Thơ
 rtp://@232.84.1.119:10266
+#EXTINF:0 tvg-id="vietnamtoday"tvg-logo="https://commons.wikimedia.org/wiki/File:Vietnam_Today_Logo.png#/media/File:Vietnam_Today_Logo.png",Vietnam Today (HD)
+rtp://@232.84.1.234:10290
 #EXTINF:-1 tvg-id="vtv7hd"tvg-logo="https://i.imgur.com/AgamSNe.png"group-title="VTV",VTV7 (HD)
 rtp://@232.84.2.202:10996
 #EXTINF:-1 tvg-id="vtv8hd"tvg-logo="https://i.imgur.com/lpcltL9.png"group-title="VTV",VTV8 (HD)
@@ -375,8 +377,6 @@ rtp://@232.84.2.118:8838
 rtp://@232.84.3.127:10816
 #EXTINF:-1 tvg-id="antvhd"tvg-logo="https://i.imgur.com/eGkFbAh.png"group-title="Kênh TH Thiết yếu",ANTV
 rtp://@232.84.1.212:9246
-#EXTINF:-1 tvg-id="vntdhd"tvg-logo="https://logos.fandom.com/vi/wiki/Vietnam_Today_(VTV)?file=Vietnam_Today_07-2025_v2.png"group-title="Kênh TH Thiết yếu",Vietnam Today (HD)
-rtp://@232.84.2.181:10290
 
 
 EXTINF:-1 tvg-id=""tvg-logo="https://i.imgur.com/NWtbAS5.png"group-title="MyTV Service",Feed Quốc Hội
