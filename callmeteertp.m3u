@@ -168,7 +168,7 @@ rtp://@232.84.3.96:11476
 rtp://@232.84.3.155:10540
 #EXTINF:-1 tvg-id="cnn"tvg-logo="https://i.imgur.com/RCd9AM9.png"group-title="Quốc Tế",CNN (HD)
 rtp://@232.84.3.153:10690
-tve" group-title="Quốc Tế" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/CNBC.png",CNBC HD
+#EXTINF:0 tvg-id="" group-title="Quốc Tế" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/2560px-CNBC_logo.svg.png",CNBC HD
 rtp://@232.84.3.179:10488
 #EXTINF:0 tvg-id="" group-title="Quốc Tế" tvg-logo="https://i.imgur.com/YyYy7jy.png",TVE HD
 rtp://@232.84.3.205:11152
